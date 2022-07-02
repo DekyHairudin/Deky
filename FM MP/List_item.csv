@@ -142,8 +142,6 @@ BUT-W0O-W50ML,Wardah Creamy Body Butter With Olive 50 ml (pc(s))
 BUT-W0P-W50ML,Wardah Creamy Body Butter With Passion Fruit 50 ml (pc(s))
 BUT-W0R-W50ML,Wardah Creamy Body Butter With Rose 50 ml (pc(s))
 BUT-W0S-W50ML,Wardah Creamy Body Butter With Strawberry 50 ml (pc(s))
-BUT-W3O-W150ML,Wardah Creamy Body Butter With Olive 150 ml (Pc(s))
-BUT-W3P-W150ML,Wardah Creamy Body Butter With Passion Fruit 150 ml (Pc(s))
 C-P1-P450,Putri Cold Wave 450 ML (Pc(s))
 CB-P1A-P240,Putri Natural Creambath Avocado 240 ML (Pc(s))
 CB-P1A-P720,Putri Natural Creambath Avocado 720 ML (Pc(s))
@@ -191,12 +189,12 @@ CUS-CLPGCRA-W,Wardah Refill Colorfit Perfect Glow Cushion 11C Pink Fair
 CUS-CLPGCRB-W,Wardah Refill Colorfit Perfect Glow Cushion 22N Light Ivory
 CUS-CLPGCRC-W,Wardah Refill Colorfit Perfect Glow Cushion 23W Warm Ivory
 CUS-CLPGCRD-W,Wardah Refill Colorfit Perfect Glow Cushion 32N Neutral Beige
-CUS-DM01-EM,Emina Daily Matte Cushion 01 15 g
-CUS-DM02-EM,Emina Daily Matte Cushion 02 15 g
-CUS-DM03-EM,Emina Daily Matte Cushion 03 15 g
-CUS-DM04-EM,Emina Daily Matte Cushion 04 15 g
-CUS-DM05-EM,Emina Daily Matte Cushion 05 15 g
-CUS-DM06-EM,Emina Daily Matte Cushion 06 15 g
+CUS-DM01-EM,Emina Daily Matte Cushion C01 Light 15 g
+CUS-DM02-EM,Emina Daily Matte Cushion W01 Light 15 g
+CUS-DM03-EM,Emina Daily Matte Cushion W02 Natural 15 g
+CUS-DM04-EM,Emina Daily Matte Cushion N02 Natural 15 g
+CUS-DM05-EM,Emina Daily Matte Cushion W03 Caramel 15 g
+CUS-DM06-EM,Emina Daily Matte Cushion W04 Mocca 15 g
 CUS-EFC01-W,Wardah Exclusive Flawless Cover Cushion 01 Light Beige 15 g
 CUS-EFC02-W,Wardah Exclusive Flawless Cover Cushion 02 Honey Beige 15 g
 CUS-EFC03-W,Wardah Exclusive Flawless Cover Cushion 03 Sandy Beige 15 g
@@ -299,7 +297,6 @@ EB-SMUEMA-EM,Emina Squeeze Me Up Browcara Woody 8 g
 EB-SMUEMB-EM,Emina Squeeze Me Up Browcara Ashy 8 g
 EB-SMUEMC-EM,Emina Squeeze Me Up Browcara Clear
 EB-TS-EM2.9GR,Emina Top Secret Eyebrow 2.9 gr (Pc(s))
-EB-W1BL-W,Wardah Eye Brow Black
 EC-RRYAG-W,Wardah Renew You Eye Cream 10 g (Pc(s))
 EC-RWSB-W,Wardah Crystal Secret Eyes Dark Circle Corrector 10 ml
 EL-EDCPBL-EM0.2GR,Emina Eye Do! Crayon Pour Les Yeux Black 0.2 gr (Pc(s))
@@ -377,7 +374,6 @@ ES-TMFT-MO6G,MAKE OVER Trivia Eye Shadow Magical Fairy Tale 6 g (Pc(s))
 ES-TN-MO6G,MAKE OVER Trivia Eye Shadow Natural Nude 6 g (Pc(s))
 ES-TSB-MO6G,MAKE OVER Trivia Eye Shadow Skycrapping Blue 6 g (Pc(s))
 "ES-W0I-W3,3GR","Wardah Eye Shadow I  3,3 gr"
-"ES-W0N-W3,3GR","Wardah Eye Shadow N  3,3 gr"
 "ES-W1A-W3,3GR","Wardah Eye Shadow A  3,3 gr"
 "ES-W1G-W3,3GR","Wardah Eye Shadow G  3,3 gr"
 F-BWMM01-EM,Emina Bare with Me Mineral Mild Foundation 01 Light 30 ml
@@ -643,8 +639,13 @@ HBW-BWN1D-BD,Biodef Natural Protection Mint + Yuzu Body Wash Antiseptik Alami Bo
 HBW-BWN2A-BD,Biodef Natural Protection Mint + Sea Salt Body Wash Antiseptik Alami Pouch 400 ml
 HBW-BWN2C-BD,Biodef Natural Protection Mint + Green Tea Body Wash Antiseptik Alami Pouch 400 ml
 HBW-BWN2D-BD,Biodef Natural Protection Mint + Yuzu Body Wash Antiseptik Alami Pouch 400 ml
+HBW-BWN5A-BD,Biodef Natural Protection Mint + Sea Salt Body Wash Antiseptik Alami Botol 550 ml
+HBW-BWN5C-BD,Biodef Natural Protection Mint + Green Tea Body Wash Antiseptik Alami Botol 550 ml
+HBW-BWN5D-BD,Biodef Natural Protection Mint + Yuzu Body Wash Antiseptik Alami Botol 550 ml
+HBW-BWN6A-BD,Biodef Natural Protection Mint + Sea Salt Body Wash Antiseptik Alami Pouch 800 ml
+HBW-BWN6C-BD,Biodef Natural Protection Mint + Green Tea Body Wash Antiseptik Alami Pouch 800 ml
+HBW-BWN6D-BD,Biodef Natural Protection Mint + Yuzu Body Wash Antiseptik Alami Pouch 800 ml
 HBW-EB-KA,Kahf Energizing and Brightening Body Wash 200 ml
-HBW-EHB-KA,Kahf Energizing Hair and Body Wash 200 ml
 HBW-ETBWA-W,Earth Love Life East Balinese Bamboo & Oriental Mint Body Wash 250 ml
 HBW-ETBWAN2-W,Earth Love Life East Balinese Bamboo & Oriental Mint Body Wash 450 ml
 HBW-ETBWB-W,Earth Love Life Javanese Moringa & Balinese Starfruit Body Wash 250 ml
@@ -662,14 +663,12 @@ HBW-HWN1B-BD,Biodef Natural Protection Mint + Yuzu Hand Wash Antiseptik Alami Po
 HBW-HWN2-BD,Biodef Natural Protection Mint + Green Tea Hand Wash Antiseptik Alami Botol 250 ml
 HBW-HWN2B-BD,Biodef Natural Protection Mint + Yuzu Hand Wash Antiseptik Alami Botol 250 ml
 HBW-NDAHHWN2-W,Wardah Nature Daily Aloe Hydramild Hand Wash 250 ml
-HBW-NFSBWN1A-BD,Biodef NFS Natural Protection Mint + Sea Salt Body Wash Antiseptik Alami 15 ml
 HBW-R-KA,Kahf Refreshing Body Wash 200 ml
 HBW-RETBWAN2-W,EARTH LOVE LIFE East Balinese Bamboo & Oriental Mint Body Wash Pouch 400 ml
 HBW-RETBWBN2-W,EARTH LOVE LIFE Javanese Moringa & Balinese Starfruit Body Wash Pouch 400 ml
 HBW-RETBWCN2-W,EARTH LOVE LIFE Bulgarian Rose & East Nusa Vanilla Body Wash Pouch 400 ml
 HBW-RETBWDN2-W,EARTH LOVE LIFE Spanish Lavender & Javanese Rice Milk Body Wash Pouch 400 ml
 HBW-RETBWEN2-W,EARTH LOVE LIFE South Bali Frangipani & Tropical Coconut Water Body Wash Pouch 400 ml
-HBW-RHB-KA,Kahf Relaxing Hair and Body Wash 200 ml
 HBW-TBWN3A-BD,TESTER Biodef Natural Protection Mint + Sea Salt Body Wash 60 ml
 HBW-TBWN3C-BD,TESTER Biodef Natural Protection Mint + Green Tea Body Wash 60 ml
 HBW-TBWN3D-BD,TESTER Biodef Natural Protection Mint + Yuzu Body Wash 60 ml
@@ -758,7 +757,6 @@ L-CQS201-MO2G,MAKE OVER Cliquematte Lip Stylo 201 Eclair 2 g
 L-CQS202-MO2G,MAKE OVER Cliquematte Lip Stylo 202 Hollywood 2 g
 L-CQS203-MO2G,MAKE OVER Cliquematte Lip Stylo 203 Crush 2 g
 L-CQS205-MO2G,MAKE OVER Cliquematte Lip Stylo 205 Jetsetter 2 g
-L-CQS206-MO2G,MAKE OVER Cliquematte Lip Stylo 206 Grandiose 2 g
 L-CQS209-MO2G,MAKE OVER Cliquematte Lip Stylo 209 Royale 2 g
 L-CQS210-MO2G,MAKE OVER Cliquematte Lip Stylo 210 Hotshot 2 g
 L-CSGC101-MO,MAKE OVER Color Stick Gloss Crayon 101 Veronica 3 g
@@ -865,8 +863,6 @@ L-HSLWI-MO,Make Over Hydrastay Smooth Lip Whip C09 Admire
 L-HSLWJ-MO,Make Over Hydrastay Smooth Lip Whip C10 Vow
 L-HSLWK-MO,Make Over Hydrastay Smooth Lip Whip C11 Suave
 L-HSLWL-MO,Make Over Hydrastay Smooth Lip Whip C12 Detail
-L-IM05-W2.3G,Wardah Intense Matte Lipstick 05 Easy Brownie 2.3 g (Pc(s))
-L-IM06-W2.3G,"Wardah Intense Matte Lipstick 06 Blooming Pink 2,5 g (Pc(s))"
 "L-IMC001-MO6,5G","MAKE OVER Intense Matte Lip Cream 001 Lavish 6,5 g (Pc(s))"
 "L-IMC002-MO6,5G","MAKE OVER Intense Matte Lip Cream 002 Heiress 6,5 g (Pc(s))"
 "L-IMC003-MO6,5G","MAKE OVER Intense Matte Lip Cream 003 Secret 6,5 g (Pc(s))"
@@ -933,15 +929,11 @@ L-LACL01-MO0.2G,MAKE OVER Lip Amplify Contour Liner 01 Exposed 0.2 g
 L-LACL02-MO0.2G,MAKE OVER Lip Amplify Contour Liner 02 Flatter 0.2 g
 L-LACL05-MO0.2G,MAKE OVER Lip Amplify Contour Liner 05 Pin Up 0.2 g
 L-LL01-W2.3G,Wardah Lipstick Longlasting 01 Fabulous Peach 2.3 g (Pc(s))
-L-LL02-W2.3G,Wardah Lipstick Longlasting 02 Pink Sorbet 2.3 g (Pc(s))
 L-LL03-W2.3G,Wardah Lipstick Longlasting 03 Simply Brown 2.3 g (Pc(s))
 L-LL08-W2.3G,Wardah Lipstick Longlasting 08 Red Velvet 2.3 g (Pc(s))
 L-LL09-W2.3G,Wardah Lipstick Longlasting 09 Vibrant Red 2.3 g (Pc(s))
 L-LL10-W2.3G,Wardah Lipstick Longlasting 10 Stylish Mocca 2.3 g (Pc(s))
-L-LL11-W2.3G,Wardah Lipstick Longlasting 11 Cherrie Glam 2.3 g (Pc(s))
-L-LL13-W2.3G,Wardah Lipstick Longlasting 13 Classic Brown 2.3 g (Pc(s))
 L-LL17-W2.3G,Wardah Lipstick Longlasting 17 Passionate Red 2.3 g
-L-LL19-W2.3G,Wardah Lipstick Longlasting 19 Sunrise Nude 2.3 g
 L-LLS01-EM,Emina Watercolor Lip Serum 01 Dawn
 L-LLS02-EM,Emina Watercolor Lip Serum 02 Mist
 L-LLS03-EM,Emina Watercolor Lip Serum 03 Dusk
@@ -967,10 +959,12 @@ L-MLCN-OMG,OMG Oh My Glam Matte Kiss Lip Cream 14 Cappuccino 3.5 g
 L-MLCO-OMG,OMG Oh My Glam Matte Kiss Lip Cream 15 Espresso 3.5 g
 L-NLCA-EM,Emina Poppin’ Matte 04 Snatched
 L-NLCALE1-EM,Emina Poppin' Matte The 90's Edition 06 Roller Skate 4.5 g
+L-NLCALE1REG-EM,Emina Poppin' Matte The 90's Edition 06 Roller Skate 4.5 g
 L-NLCB-EM,Emina Poppin’ Matte 02 To Be Honest
 L-NLCBLE2-EM,Emina Poppin' Matte The 90's Edition 07 Rubic Cubic 4.5 g
 L-NLCC-EM,Emina Poppin’ Matte 01 Lowkey
 L-NLCCLE3-EM,Emina Poppin' Matte The 90's Edition 08 Lovely Tamagochan 4.5 g
+L-NLCCLE3REG-EM,Emina Poppin' Matte The 90's Edition 08 Lovely Tamago 4.5 g
 L-NLCD-EM,Emina Poppin’ Matte 03 Game On
 L-NLCDLE4-EM,Emina Poppin' Matte The 90's Edition 09 Tossin' Tazos 4.5 g
 L-NLCE-EM,Emina Poppin’ Matte 05 Easy Peasy
@@ -1102,8 +1096,6 @@ L-SR16PD-EM,Emina Sugar Rush Lipstick 16 Peach Drops 3.8 g
 L-SR17AF-EM,Emina Sugar Rush Lipstick 17 Apple Fondue 3.8 g
 L-TLT-OMG,OMG Oh My Glam Juicy Kiss Lip Tint Serum TESTER SET (5.3 g x 4)
 L-TMLC2-OMG,OMG OH MY GLAM Tester Matte Kiss Lip Cream 01-15 52.5 g
-L-W0PC-W10G,Wardah Lip Palette Chocoaholic 10 g (Pc(s))
-L-W0PPP-W10G,Wardah Lip Palette Pinky Peach 10 g (pc(s))
 LB-EVFSG-W4G,Wardah Everyday Fruity Sheer Lip Balm Grape 4 g
 LB-EVFSS-W4G,Wardah Everyday Fruity Sheer Lip Balm Strawberry 4 g
 LB-EVLNGT-W4G,Wardah Everyday Moisture Lip Nutrition Green Tea 4 g
@@ -1416,6 +1408,11 @@ MY-LCUM05-W,Malaysia Wardah Colorfit Ultralight Matte Lipstick 05 Blossom Pink 3
 MY-LCUM06-W,Malaysia Wardah Colorfit Ultralight Matte Lipstick 06 Punch Fuchsia 3.6 g
 MY-LCUM07-W,Malaysia Wardah Colorfit Ultralight Matte Lipstick 07 Crimson Red 3.6 g
 MY-LCUM08-W,Malaysia Wardah Colorfit Ultralight Matte Lipstick 08 Woodsy Brown 3.6 g
+MY-LCUMKORA-W,Malaysia Wardah Colorfit Ultralight Matte Lipstick 09 Romantic Namsan 3.6 g
+MY-LCUMKORB-W,Malaysia Wardah Colorfit Ultralight Matte Lipstick 10 Stunning Seoul 3.6 g
+MY-LCUMKORC-W,Malaysia Wardah Colorfit Ultralight Matte Lipstick 11 Sunkissed Jeju 3.6 g
+MY-LCUMKORD-W,Malaysia Wardah Colorfit Ultralight Matte Lipstick 12 Autumn Nami 3.6 g
+MY-LCUMKORE-W,Malaysia Wardah Colorfit Ultralight Matte Lipstick 13 Upbeat Hongdae 3.6 g
 MY-LCUSH01-EM,Malaysia Emina Lip Cushion 01. Let It Peach 9 g
 MY-LCUSH02-EM,Malaysia Emina Lip Cushion 02. Be Cherry 9 g
 MY-LCUSH03-EM,Malaysia Emina Lip Cushion 03. Get Berry 9 g
@@ -1752,7 +1749,6 @@ S-USSEC-W,Wardah Hairfall Treatment Shampoo 170 ml
 SGL-P1-P200,Putri Styling Glaze 200 ML (Pc(s))
 SHAR-SM-MO,MAKE OVER Small Sharpener (Pc(s))
 SL-P1-P200,Putri Setting Lotion 200 ML (Pc(s))
-SRM-AGIS-W17ML,Wardah Renew You Anti Aging Intensive Serum 17 ml (Pc(s))
 SRM-AN1-EM,Emina Natura Pal Splash Serum 30 ml
 SRM-AN1-OMG,OMG Oh My Glow Acne Serum 20 ml
 SRM-ASRM-W,Wardah Acnederm Acne Care Serum 15 ml
