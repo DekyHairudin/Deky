@@ -27,6 +27,9 @@ B-IPQSP13-W,Instaperfect QUICKMATTE Loose Powder 32 True Beige 9 g
 B-IPQSP14-W,Instaperfect QUICKMATTE Loose Powder 33 Warm Olive 9 g
 B-IPQSP15-W,Instaperfect QUICKMATTE Loose Powder 43 Creme Sand 9 g
 B-IPQSP16-W,Instaperfect QUICKMATTE Loose Powder 52 Almond 9 g
+B-L01LB-W20G,Wardah Lightening Loose Powder 01 Light Beige 20 g
+B-L02B-W20G,Wardah Lightening Loose Powder 02 Beige 20 g
+B-L03I-W20G,Wardah Lightening Loose Powder 03 Ivory 20 g
 B-NFSDMCP01-EM,Emina NFS Daily Matte Compact Powder 01 Light 4 g
 B-NFSDMCP02-EM,Emina NFS Daily Matte Compact Powder 02 Natural 4 g
 B-PBTUBB-W,Wardah Perfect Bright BB Powder 50 g
@@ -102,6 +105,7 @@ BO-IPCBBC02-W5.6G,Wardah Instaperfect CITY BLUSH Blusher Click 02. Adore 5.6 g
 BO-MMB01-MO,MAKE OVER Multifix Matte Blusher 01 Rose Hour 9 g 
 BO-MMB02-MO,MAKE OVER Multifix Matte Blusher 02 Quickpinker 9 g 
 BO-MMB03-MO,MAKE OVER Multifix Matte Blusher 03 Blush Rush 9 g 
+BO-MMB03-MO9G,MAKE OVER Multifix Matte Blusher 03 Blush Rush 9 g
 BO-MMB04-MO,MAKE OVER Multifix Matte Blusher 04 Peach Flash 9 g 
 BO-MMB05-MO,MAKE OVER Multifix Matte Blusher 05 Heatshot 9 g 
 "BO-PPS-MO8X3,5G","MAKE OVER Perfect Shade Blush On Palette 8X3,5 g (Pc(s))"
@@ -250,6 +254,7 @@ CUS-REFIPRVC-W,Instaperfect Refill Skincover Air Cushion 32 True Beige 11 g
 CUS-REFIPRVD-W,Instaperfect Refill Skincover Air Cushion 33 Warm Olive 11 g
 CUS-REFIPRVE-W,Instaperfect Refill Skincover Air Cushion 43 Creme Sand 11 g
 CUS-REFIPRVF-W,Instaperfect Refill Skincover Air Cushion 52 Almond 11 g
+CUS-RIPMB14-W15G,Wardah Refill Instaperfect MINERALIGHT MATTE BB Cushion 14. CRÉME 15 g
 CUS-RREFC01-W,Wardah Refill Exclusive Flawless Cover Cushion 01 Light Beige 15 g
 CUS-RREFC02-W,Wardah Refill Exclusive Flawless Cover Cushion 02 Honey Beige 15 g
 CUS-RREFC03-W,Wardah Refill Exclusive Flawless Cover Cushion 03 Sandy Beige 15 g
@@ -287,6 +292,8 @@ EB-IPB3M01-W5.5G,Wardah Instaperfect BROWFESSIONAL 3D Brow Mascara 01. BROWN 5.5
 EB-IPB3M02-W5.5G,Wardah Instaperfect BROWFESSIONAL 3D Brow Mascara 02. DEEP GREY 5.5 g
 EB-IPEM01-W,Wardah Instaperfect BROWFLASH 3-in-1 Brow Perfector 01 True Brown 0.6 g
 EB-IPEM02-W,Wardah Instaperfect BROWFLASH 3-in-1 Brow Perfector 02 Ash Brown 0.6 g
+EB-IPGMC01-W0.25G,Wardah Instaperfect GENIUSTWIST Matic Contour Brow-Brushed 01. BROWN 0.25 g
+EB-IPGMC02-W0.25G,Wardah Instaperfect GENIUSTWIST Matic Contour Brow-Brushed 02. DEEP GREY 0.25 g
 "EB-PBE-MO1,14G","MAKE OVER Eyebrow Pencil Brown To Earth 1,14 g (Pc(s))"
 "EB-PBL-MO1,14G","MAKE OVER Eyebrow Pencil Black Lines 1,14 g (Pc(s))"
 EB-R2SEDA-MO,MAKE OVER Brow Styler Eye Definer Americano 0.13 g
@@ -663,6 +670,7 @@ HBW-HWN1B-BD,Biodef Natural Protection Mint + Yuzu Hand Wash Antiseptik Alami Po
 HBW-HWN2-BD,Biodef Natural Protection Mint + Green Tea Hand Wash Antiseptik Alami Botol 250 ml
 HBW-HWN2B-BD,Biodef Natural Protection Mint + Yuzu Hand Wash Antiseptik Alami Botol 250 ml
 HBW-NDAHHWN2-W,Wardah Nature Daily Aloe Hydramild Hand Wash 250 ml
+HBW-NFSBWN1A-BD,Biodef NFS Natural Protection Mint + Sea Salt Body Wash Antiseptik Alami 15 ml
 HBW-R-KA,Kahf Refreshing Body Wash 200 ml
 HBW-RETBWAN2-W,EARTH LOVE LIFE East Balinese Bamboo & Oriental Mint Body Wash Pouch 400 ml
 HBW-RETBWBN2-W,EARTH LOVE LIFE Javanese Moringa & Balinese Starfruit Body Wash Pouch 400 ml
@@ -803,41 +811,47 @@ L-CVM07-W,Wardah Colorfit Velvet Matte Lip Mousse 07 Red Pioneer 4 g
 L-CVM08-W,Wardah Colorfit Velvet Matte Lip Mousse 08 Brown Creator 4 g
 L-CVM09-W,Wardah Colorfit Velvet Matte Lip Mousse 09 Ombre Charmer 4 g
 L-EMC01-W4GR,Wardah Exclusive Matte Lip Cream 01 Red-dicted 4 gr (Pc(s))
-L-EMC01DP-W,Wardah Exclusive Matte Lip Cream 01 Digital Printing
+L-EMC01DP-W,Wardah Exclusive Matte Lip Cream 01 Red-dicted 4g
 L-EMC02-W4GR,Wardah Exclusive Matte Lip Cream 02 Fuschionately 4 gr (pc(s))
-L-EMC02DP-W,Wardah Exclusive Matte Lip Cream 02 Digital Printing
+L-EMC02DP-W,Wardah Exclusive Matte Lip Cream 02 Fuschionately 4g
 L-EMC03-W4GR,Wardah Exclusive Matte Lip Cream 03 See You Latte 4 gr (pc(s))
-L-EMC03DP-W,Wardah Exclusive Matte Lip Cream 03 Digital Printing
+L-EMC03DP-W,Wardah Exclusive Matte Lip Cream 03 See You Latte 4g
 L-EMC04-W4GR,Wardah Exclusive Matte Lip Cream 04 Pink Me 4 gr (pc(s))
-L-EMC04DP-W,Wardah Exclusive Matte Lip Cream 04 Digital Printing
+L-EMC04DP-W,Wardah Exclusive Matte Lip Cream 04 Pink Me 4g
 L-EMC05-W4GR,Wardah Exclusive Matte Lip Cream 05 Speachless 4 gr (pc(s))
-L-EMC05DP-W,Wardah Exclusive Matte Lip Cream 05 Digital Printing
+L-EMC05DP-W,Wardah Exclusive Matte Lip Cream 05 Speachless 4g
 L-EMC06-W4GR,Wardah Exclusive Matte Lip Cream 06 Feeling Red 4 gr (Pc(s))
-L-EMC06DP-W,Wardah Exclusive Matte Lip Cream 06 Digital Printing
+L-EMC06DP-W,Wardah Exclusive Matte Lip Cream 06 Feeling Red 4g
 L-EMC07-W4GR,"Wardah Exclusive Matte Lip Cream 07 Hello, Ruby 4 gr (Pc(s))"
-L-EMC07DP-W,Wardah Exclusive Matte Lip Cream 07 Digital Printing
+L-EMC07DP-W,"Wardah Exclusive Matte Lip Cream 07 Hello, Ruby 4g"
 L-EMC08-W4GR,Wardah Exclusive Matte Lip Cream 08 Pinkcredible 4 gr (Pc(S))
-L-EMC08DP-W,Wardah Exclusive Matte Lip Cream 08 Digital Printing
+L-EMC08DP-W,Wardah Exclusive Matte Lip Cream 08 Pinkcredible 4g
 L-EMC09-W4GR,Wardah Exclusive Matte Lip Cream 09 Mauve On ! 4 gr (Pc(s))
-L-EMC09DP-W,Wardah Exclusive Matte Lip Cream 09 Digital Printing
+L-EMC09DP-W,Wardah Exclusive Matte Lip Cream 09 Mauve On ! 4g
 L-EMC10-W4GR,Wardah Exclusive Matte Lip Cream 10 Berry Pretty 4 gr (Pc(s))
-L-EMC10DP-W,Wardah Exclusive Matte Lip Cream 10 Digital Printing
+L-EMC10DP-W,Wardah Exclusive Matte Lip Cream 10 Berry Pretty 4g
 L-EMC11-W4GR,Wardah Exclusive Matte Lip Cream 11 Oh So Nude ! 4 gr (Pc(s))
-L-EMC11DP-W,Wardah Exclusive Matte Lip Cream 11 Digital Printing
+L-EMC11DP-W,Wardah Exclusive Matte Lip Cream 11 Oh So Nude ! 4g
 L-EMC12-W4GR,Wardah Exclusive Matte Lip Cream 12 Plum It Up 4 gr (Pc(s))
-L-EMC12DP-W,Wardah Exclusive Matte Lip Cream 12 Digital Printing
+L-EMC12DP-W,Wardah Exclusive Matte Lip Cream 12 Plum It Up 4g
 L-EMC13-W4GR,Wardah Exclusive Matte Lip Cream 13 Fruit Punch 4 gr (Pc(s))
-L-EMC13DP-W,Wardah Exclusive Matte Lip Cream 13 Digital Printing
+L-EMC13DP-W,Wardah Exclusive Matte Lip Cream 13 Fruit Punch 4g
 L-EMC14-W4GR,Wardah Exclusive Matte Lip Cream 14 My Honey Bee 4 gr (Pc(s))
-L-EMC14DP-W,Wardah Exclusive Matte Lip Cream 14 Digital Printing
+L-EMC14DP-W,Wardah Exclusive Matte Lip Cream 14 My Honey Bee 4g
 L-EMC15-W4GR,Wardah Exclusive Matte Lip Cream 15 Pinky Plumise 4 gr (Pc(s))
-L-EMC15DP-W,Wardah Exclusive Matte Lip Cream 15 Digital Printing
+L-EMC15DP-W,Wardah Exclusive Matte Lip Cream 15 Pinky Plumise 4g
 L-EMC16-W4GR,Wardah Exclusive Matte Lip Cream 16 Heartbeet 4 gr (Pc(s))
-L-EMC16DP-W,Wardah Exclusive Matte Lip Cream 16 Digital Printing
+L-EMC16DP-W,Wardah Exclusive Matte Lip Cream 16 Heartbeet 4g
 L-EMC17-W4GR,Wardah Exclusive Matte Lip Cream 17 Rosy Cheek 4 gr (Pc(s))
-L-EMC17DP-W,Wardah Exclusive Matte Lip Cream 17 Digital Printing
+L-EMC17DP-W,Wardah Exclusive Matte Lip Cream 17 Rosy Cheek 4g
 L-EMC18-W4GR,Wardah Exclusive Matte Lip Cream 18 Saturdate Night 4 gr (Pc(s))
-L-EMC18DP-W,Wardah Exclusive Matte Lip Cream 18 Digital Printing
+L-EMC18DP-W,Wardah Exclusive Matte Lip Cream 18 Saturdate Night 4g
+L-EMCA-W,Wardah Exclusive Matte Lip Cream Tukar Guling Shade A 4 g
+L-EMCB-W,Wardah Exclusive Matte Lip Cream Tukar Guling Shade B 4 g
+L-EMCC-W,Wardah Exclusive Matte Lip Cream Tukar Guling Shade C 4 g
+L-EMCD-W,Wardah Exclusive Matte Lip Cream Tukar Guling Shade D 4 g
+L-EMCE-W,Wardah Exclusive Matte Lip Cream Tukar Guling Shade E 4 g
+L-EMCF-W,Wardah Exclusive Matte Lip Cream Tukar Guling Shade F 4 g
 L-EVCL01-W5.5G,"Wardah Everyday Cheek and Lip Tint 01 Red, Set, Glow! 5.5 g"
 L-EVCL02-W5.5G,Wardah Everyday Cheek and Lip Tint 02 My Baerry! 5.5 g
 L-EVCL03-W5.5G,Wardah Everyday Cheek and Lip Tint 03 Pink on Point! 5.5 g
@@ -1010,6 +1024,18 @@ L-PVW05-MO,MAKE OVER Powerstay Vivid Waterlite Lip Stain A05 Hot Miss 5.5 g
 L-PVW06-MO,MAKE OVER Powerstay Vivid Waterlite Lip Stain A06 Passion 5.5 g
 L-PVW07-MO,MAKE OVER Powerstay Vivid Waterlite Lip Stain A07 XOXO 5.5 g
 L-PVW08-MO,MAKE OVER Powerstay Vivid Waterlite Lip Stain A08 Plush 5.5 g
+L-R2EMC01-W,Wardah Exclusive Matte Lip Cream Tukar Guling Shade 01 4 g
+L-R2EMC03-W,Wardah Exclusive Matte Lip Cream Tukar Guling Shade 03 4 g
+L-R2EMC05-W,Wardah Exclusive Matte Lip Cream Tukar Guling Shade 05 4 g
+L-R2EMC06-W,Wardah Exclusive Matte Lip Cream Tukar Guling Shade 06 4 g
+L-R2EMC07-W,Wardah Exclusive Matte Lip Cream Tukar Guling Shade 07 4 g
+L-R2EMC08-W,Wardah Exclusive Matte Lip Cream Tukar Guling Shade 08 4 g
+L-R2EMC09-W,Wardah Exclusive Matte Lip Cream Tukar Guling Shade 09 4 g
+L-R2EMC11-W,Wardah Exclusive Matte Lip Cream Tukar Guling Shade 11 4 g
+L-R2EMC12-W,Wardah Exclusive Matte Lip Cream Tukar Guling Shade 12 4 g
+L-R2EMC13-W,Wardah Exclusive Matte Lip Cream Tukar Guling Shade 13 4 g
+L-R2EMC16-W,Wardah Exclusive Matte Lip Cream Tukar Guling Shade 16 4 g
+L-R2EMC17-W,Wardah Exclusive Matte Lip Cream Tukar Guling Shade 17 4 g
 L-RCLCLS1-W,Wardah Colorfit Fresh Lip Ink Serum 01 Energy Shot 4 g
 L-RCLCLS2-W,Wardah Colorfit Fresh Lip Ink Serum 02 Smart Cookie 4 g
 L-RCLCLS3-W,Wardah Colorfit Fresh Lip Ink Serum 03 High Rise 4 g
