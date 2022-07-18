@@ -27,9 +27,6 @@ B-IPQSP13-W,Instaperfect QUICKMATTE Loose Powder 32 True Beige 9 g
 B-IPQSP14-W,Instaperfect QUICKMATTE Loose Powder 33 Warm Olive 9 g
 B-IPQSP15-W,Instaperfect QUICKMATTE Loose Powder 43 Creme Sand 9 g
 B-IPQSP16-W,Instaperfect QUICKMATTE Loose Powder 52 Almond 9 g
-B-L01LB-W20G,Wardah Lightening Loose Powder 01 Light Beige 20 g
-B-L02B-W20G,Wardah Lightening Loose Powder 02 Beige 20 g
-B-L03I-W20G,Wardah Lightening Loose Powder 03 Ivory 20 g
 B-NFSDMCP01-EM,Emina NFS Daily Matte Compact Powder 01 Light 4 g
 B-NFSDMCP02-EM,Emina NFS Daily Matte Compact Powder 02 Natural 4 g
 B-PBTUBB-W,Wardah Perfect Bright BB Powder 50 g
@@ -254,7 +251,6 @@ CUS-REFIPRVC-W,Instaperfect Refill Skincover Air Cushion 32 True Beige 11 g
 CUS-REFIPRVD-W,Instaperfect Refill Skincover Air Cushion 33 Warm Olive 11 g
 CUS-REFIPRVE-W,Instaperfect Refill Skincover Air Cushion 43 Creme Sand 11 g
 CUS-REFIPRVF-W,Instaperfect Refill Skincover Air Cushion 52 Almond 11 g
-CUS-RIPMB14-W15G,Wardah Refill Instaperfect MINERALIGHT MATTE BB Cushion 14. CRÉME 15 g
 CUS-RREFC01-W,Wardah Refill Exclusive Flawless Cover Cushion 01 Light Beige 15 g
 CUS-RREFC02-W,Wardah Refill Exclusive Flawless Cover Cushion 02 Honey Beige 15 g
 CUS-RREFC03-W,Wardah Refill Exclusive Flawless Cover Cushion 03 Sandy Beige 15 g
@@ -292,8 +288,6 @@ EB-IPB3M01-W5.5G,Wardah Instaperfect BROWFESSIONAL 3D Brow Mascara 01. BROWN 5.5
 EB-IPB3M02-W5.5G,Wardah Instaperfect BROWFESSIONAL 3D Brow Mascara 02. DEEP GREY 5.5 g
 EB-IPEM01-W,Wardah Instaperfect BROWFLASH 3-in-1 Brow Perfector 01 True Brown 0.6 g
 EB-IPEM02-W,Wardah Instaperfect BROWFLASH 3-in-1 Brow Perfector 02 Ash Brown 0.6 g
-EB-IPGMC01-W0.25G,Wardah Instaperfect GENIUSTWIST Matic Contour Brow-Brushed 01. BROWN 0.25 g
-EB-IPGMC02-W0.25G,Wardah Instaperfect GENIUSTWIST Matic Contour Brow-Brushed 02. DEEP GREY 0.25 g
 "EB-PBE-MO1,14G","MAKE OVER Eyebrow Pencil Brown To Earth 1,14 g (Pc(s))"
 "EB-PBL-MO1,14G","MAKE OVER Eyebrow Pencil Black Lines 1,14 g (Pc(s))"
 EB-R2SEDA-MO,MAKE OVER Brow Styler Eye Definer Americano 0.13 g
@@ -897,9 +891,6 @@ L-HSLWL-MO,Make Over Hydrastay Smooth Lip Whip C12 Detail
 "L-IMC018-MO6,5G","MAKE OVER Intense Matte Lip Cream 018 Classic 6,5 g (Pc(s))"
 "L-IMC019-MO6,5G","MAKE OVER Intense Matte Lip Cream 019 Vogue 6,5 g (Pc(s))"
 "L-IMC020-MO6,5G","MAKE OVER Intense Matte Lip Cream 020 Style 6,5 g (Pc(s))"
-L-IPAM01-W,Instaperfect Lip Oil Ampoule Peach
-L-IPAM02-W,Instaperfect Lip Oil Ampoule Pink
-L-IPAM03-W,Instaperfect Lip Oil Ampoule Red
 L-IPCS01-W,Wardah Instaperfect Litesplash Lip Sorbet 03 Cranberry 4.2 g
 L-IPCS02-W,Wardah Instaperfect Litesplash Lip Sorbet 04 Chandler 4.2 g
 L-IPCS03-W,Wardah Instaperfect Litesplash Lip Sorbet 02 Pomelo 4.2 g
@@ -1704,6 +1695,7 @@ MZ-W1M2-W150ML,Wardah Olive Oil For Massage 150 ml
 N-P1L-P450,Putri Neutralizer Lotion 450 ML (Pc(s))
 N-P1P3P-P240,Putri Platinum Neutralizer Step 2 240 ML (Pc(s))
 N-P1P3P-P720,Putri Platinum Neutralizer Step 2 720 ML (Pc(s))
+P-BA-L,LABORÉ Birthday Package A
 P-BRGSDUV-L,LABORÉ Sensitive Skin Care On-The-Go Minis
 P-BSFSBSFW-EM,Emina Bundling Bright Stuff Face Scrub 50 ml + Emina Bright Stuff Face Wash 50 ml
 P-BSFSSBAT30-EM,Emina Bundling Bright Stuff Face Scrub 50 ml + Emina Sun Battle SPF 30 PA+++ 60 ml
@@ -1717,7 +1709,6 @@ P-ELPBJ-MO,Make Over Eye Liner Pencil Package Black Jack (Pc(s))
 P-MAA-W,Wardah SuperSerum Mask x2 - Lightening & Acnederm
 P-MAB-W,Wardah SuperSerum Mask x2 - C-defense & Perfect Bright
 P-RHDSSK-W,"Wardah Hydra Rose Dewy Skin Starter Kit (Facial Wash 20 ml, Toner 30 ml, Day Gel 8 ml)"
-P-RY-W,Wardah Renew You Package
 P-SSHUE-L,Labore Sensitive Skin Care Haji & Umroh Essential Package
 P-SSHUM-L,Labore Sensitive Skin Care Haji & Umroh Mini Package
 P-SSOTG-L,LABORÉ Sensitive Skin Care On-The-Go Minis II
@@ -1779,7 +1770,7 @@ SRM-AN1-EM,Emina Natura Pal Splash Serum 30 ml
 SRM-AN1-OMG,OMG Oh My Glow Acne Serum 20 ml
 SRM-ASRM-W,Wardah Acnederm Acne Care Serum 15 ml
 SRM-ASSE-EM10ML,Emina Ms. Pimple Acne Solution Spot Gel 15 ml
-SRM-BA-WL,Wonderly Acne & Brightening Therapy Serum 15 ml
+SRM-BA-WL,Wonderly Acne & Brightening Treatment Serum 15 ml
 SRM-BRSR-L,LABORÉ Sensitive Skin Care GentleBiome Barrier Repair Serum 20 ml
 SRM-BRSRN2-L,LABORÉ Sensitive Skin Care GentleBiome Barrier Repair Serum 7 ml
 SRM-BSS-EM,Emina Bright Stuff Face Serum 30 ml

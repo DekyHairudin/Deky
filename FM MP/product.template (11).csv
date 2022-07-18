@@ -1,2 +1,6 @@
 "Korporat Code","Material Type","General Subcategory","General Accountable State","General State","Rnd Process State","Ppc State","Rnd State","Lifecycle State","Lifecycle"
-"L-TLTD-OMG","Semi Finished Goods","Refill","Waiting for Approval","Waiting for Approval","Confirmed","Draft","Draft","Draft","initial"
+"SRM-AN1VC-OMG","Finished Goods","Sellable","Waiting for Approval","Waiting for Approval","Confirmed","Confirmed","Confirmed","Confirmed","initial"
+"SRM-PGN1VC-OMG","Finished Goods","Sellable","Waiting for Approval","Waiting for Approval","Confirmed","Confirmed","Confirmed","Confirmed","new product"
+"P-RDB-OMG","Finished Goods","Sellable","Confirmed","Confirmed","Confirmed","Draft","Confirmed","Confirmed","initial"
+"P-RPSC-OMG","Finished Goods","Sellable","Confirmed","Confirmed","Confirmed","Draft","Confirmed","Confirmed","initial"
+"SS-UVFM1VC-OMG","Finished Goods","Sellable","Confirmed","Confirmed","Confirmed","Draft","Confirmed","Confirmed","initial"
