@@ -102,7 +102,6 @@ BO-IPCBBC02-W5.6G,Wardah Instaperfect CITY BLUSH Blusher Click 02. Adore 5.6 g
 BO-MMB01-MO,MAKE OVER Multifix Matte Blusher 01 Rose Hour 9 g 
 BO-MMB02-MO,MAKE OVER Multifix Matte Blusher 02 Quickpinker 9 g 
 BO-MMB03-MO,MAKE OVER Multifix Matte Blusher 03 Blush Rush 9 g 
-BO-MMB03-MO9G,MAKE OVER Multifix Matte Blusher 03 Blush Rush 9 g
 BO-MMB04-MO,MAKE OVER Multifix Matte Blusher 04 Peach Flash 9 g 
 BO-MMB05-MO,MAKE OVER Multifix Matte Blusher 05 Heatshot 9 g 
 "BO-PPS-MO8X3,5G","MAKE OVER Perfect Shade Blush On Palette 8X3,5 g (Pc(s))"
@@ -543,7 +542,6 @@ FT-BSE-EM,Emina Bright Stuff Exfoliating Toner 100 ml
 FT-BST-EM,Emina Bright Stuff Face Toner 100 ml
 FT-BSTN2-EM,Emina Bright Stuff Face Toner 50 ml
 FT-CHG-W,Wardah Crystallure Holy Grail Toner 100 ml
-FT-DTM-EM50ML,Emina Double The Moist Face Toner 50 ml (Pc(s))
 FT-FT-OMG,OMG Oh My Glow Peach Glowing Toner
 FT-GSEH-L,LABORÉ Sensitive Skin Care GentleBiome Hydration Toner 100 ml
 FT-GSEH30-L,LABORÉ Sensitive Skin Care GentleBiome Hydration Toner 30 ml
@@ -658,7 +656,7 @@ HBW-ETBWDN2-W,Earth Love Life Spanish Lavender & Javanese Rice Milk Body Wash 45
 HBW-ETBWE-W,Earth Love Life South Bali Frangipani & Tropical Coconut Water Body Wash 250 ml
 HBW-ETBWEN2-W,Earth Love Life South Bali Frangipani & Tropical Coconut Water Body Wash 450 ml
 HBW-GBFBCN2-L,LABORÉ Sensitive Skin Care GentleBiome Face&Body Foaming Cleanser 250 ml
-HBW-GBFBCN3-L,"	LABORÉ Sensitive Skin Care GentleBiome Face & Body Foaming Cleanser 40 mL"
+HBW-GBFBCN3-L,	LABORÉ Sensitive Skin Care GentleBiome Face & Body Foaming Cleanser 40 mL
 HBW-HWN1-BD,Biodef Natural Protection Mint + Green Tea Hand Wash Antiseptik Alami Pouch 200 ml
 HBW-HWN1B-BD,Biodef Natural Protection Mint + Yuzu Hand Wash Antiseptik Alami Pouch 200 ml
 HBW-HWN2-BD,Biodef Natural Protection Mint + Green Tea Hand Wash Antiseptik Alami Botol 250 ml
@@ -1288,6 +1286,7 @@ MY-CUSCLCE-W,Malaysia Wardah Colorfit Perfect Glow Cushion 33W Olive Beige
 MY-CUSCLCF-W,Malaysia Wardah Colorfit Perfect Glow Cushion 42N Neutral Sand
 MY-CUSCLCG-W,Malaysia Wardah Colorfit Perfect Glow Cushion 43W Golden Sand
 MY-CUSCLCH-W,Malaysia Wardah Colorfit Perfect Glow Cushion 52N Almond
+MY-CUSR2EFC04-W,Malaysia Wardah Exclusive Flawless Cover Cushion 04 Natural 15 g
 MY-EBABBL-EM,Malaysia Emina Agent of Brow Black 1.2 gr (Pc(s))
 MY-EBABBR-EM,Malaysia Emina Agent of Brow Brown 1.2 gr (Pc(s))
 MY-EBEXPMBD01-W,Malaysia Wardah Eyexpert Matic Brow Definer 01 LIGHT BROWN 0.25 g
@@ -1355,6 +1354,11 @@ MY-FMMRI-EM,Malaysia Emina Masquerade Face Mask Rice 23 g
 MY-FMMTTO-EM,Malaysia Emina Masquerade Face Mask Tea Tree Oil 23 g
 MY-FMPBTUWC-W,Malaysia Wardah C-Defense Waterclay Mask 30 g
 MY-FMRLN2-W,Malaysia Wardah Lightening Blue Clay Mask 50 g
+MY-FRRELF01-W,Malaysia Wardah Exclusive Liquid Foundation 01 Light Beige 20 ml
+MY-FRRELF02-W,Malaysia Wardah Exclusive Liquid Foundation 02 Sheer Pink 20 ml
+MY-FRRELF03-W,Malaysia Wardah Exclusive Liquid Foundation 03 Sandy Beige 20 ml
+MY-FRRELF04-W,Malaysia Wardah Exclusive Liquid Foundation 04 Natural 20 ml
+MY-FRRRELF05-W,Malaysia Wardah Exclusive Liquid Foundation 05 Coffee Beige 20 ml
 MY-FSAJ-EM,Malaysia Emina Apricot Jam Face Scrub 60 ml (Pc(s))
 MY-FSBSFS-EM,Malaysia Emina Bright Stuff Face Scrub 50 ml
 MY-FSRLN2-W,Malaysia Wardah Lightening Gentle Exfoliator 50 ml
@@ -1441,6 +1445,24 @@ MY-LCVM11-W,Malaysia Wardah Colorfit Velvet Matte Lip Mousse 11 Cherish Marmalad
 MY-LCVM12-W,Malaysia Wardah Colorfit Velvet Matte Lip Mousse 12 Chic Terracotta 4 g
 MY-LCVM13-W,Malaysia Wardah Colorfit Velvet Matte Lip Mousse 13 Sweet Cinnamon 4 g
 MY-LCVM14-W,Malaysia Wardah Colorfit Velvet Matte Lip Mousse 14 Dainty Caramel 4 g
+MY-LEMC01DP-W,Malaysia Wardah Exclusive Matte Lip Cream 01 Red-dicted 4g
+MY-LEMC02DP-W,Malaysia Wardah Exclusive Matte Lip Cream 02 Fuschionately 4g
+MY-LEMC03DP-W,Malaysia Wardah Exclusive Matte Lip Cream 03 See You Latte 4g
+MY-LEMC04DP-W,Malaysia Wardah Exclusive Matte Lip Cream 04 Pink Me 4g
+MY-LEMC05DP-W,Malaysia Wardah Exclusive Matte Lip Cream 05 Speachless 4g
+MY-LEMC06DP-W,Malaysia Wardah Exclusive Matte Lip Cream 06 Feeling Red 4g
+MY-LEMC07DP-W,"Malaysia Wardah Exclusive Matte Lip Cream 07 Hello, Ruby 4g"
+MY-LEMC08DP-W,Malaysia Wardah Exclusive Matte Lip Cream 08 Pinkcredible 4g
+MY-LEMC09DP-W,Malaysia Wardah Exclusive Matte Lip Cream 09 Mauve On ! 4G
+MY-LEMC10DP-W,Malaysia Wardah Exclusive Matte Lip Cream 10 Berry Pretty 4g
+MY-LEMC11DP-W,Malaysia Wardah Exclusive Matte Lip Cream 11 Oh So Nude ! 4g
+MY-LEMC12DP-W,Malaysia Wardah Exclusive Matte Lip Cream 12 Plum It Up 4g
+MY-LEMC13DP-W,Malaysia Wardah Exclusive Matte Lip Cream 13 Fruit Punch 4g
+MY-LEMC14DP-W,Malaysia Wardah Exclusive Matte Lip Cream 14 My Honey Bee 4g
+MY-LEMC15DP-W,Malaysia Wardah Exclusive Matte Lip Cream 15 Pinky Plumise 4g
+MY-LEMC16DP-W,Malaysia Wardah Exclusive Matte Lip Cream 16 Heartbeet 4g
+MY-LEMC17DP-W,Malaysia Wardah Exclusive Matte Lip Cream 17 Rosy Cheek 4g
+MY-LEMC18DP-W,Malaysia Wardah Exclusive Matte Lip Cream 18 Saturdate Night 4g
 MY-LGS01-EM,Malaysia Emina Glossy Stain 01 Autumn Bell 3 g
 MY-LGS02-EM,Malaysia Emina Glossy Stain 02 Apple Shower 3 g
 MY-LGS03-EM,Malaysia Emina Glossy Stain 03 Candy Rain 3 g
@@ -1655,6 +1677,7 @@ MY-SRMASRM-W,Malaysia Wardah Acnederm Acne Treatment Serum 15 ml
 MY-SRMASSE-EM,Malaysia Emina Ms. Pimple Acne Solution Spot Gel 15 ml
 MY-SRMBSS-EM,Malaysia Emina Bright Stuff Face Serum 30 ml
 MY-SRMCAB-W,Malaysia Wardah Crystallure Supreme Activating Booster Essence 30 ml
+MY-SRMCDSI-W,Malaysia Wardah C-Defense Serum 17 ml
 MY-SRMCSAE-W,Malaysia Wardah Crystallure Supreme Advanced Eye Serum 15 ml
 MY-SRMCSRO-W,Malaysia Wardah Crystallure Supreme Revitalizing Oil Serum 30 ml
 MY-SRMELB-W,Malaysia Wardah Eyexpert Lash and Brow Serum 10 ml
@@ -1672,6 +1695,11 @@ MY-SSSB45-EM,Malaysia Emina Sun Battle SPF 45 PA+++
 MY-SSSBAT30-EM,Malaysia Emina Sun Battle SPF 30 PA+++
 MY-SSSBSP30-EM,Malaysia Emina Skin Buddy Sun Protection SPF 30 PA+++ 60 ml
 MY-SSUVSLMSN-W,Malaysia Wardah UV Shield Light Matte Sun Stick 22 g
+MY-TCR2E01-W,Malaysia Wardah Exclusive Two Way Cake 01 Sheer Pink 12 g
+MY-TCR2E02-W,Malaysia Wardah Exclusive Two Way Cake 02 Light Beige 12 g
+MY-TCR2E03-W,Malaysia Wardah Exclusive Two Way Cake 03 Sandy Beige 12 g
+MY-TCR2E04-W,Malaysia Wardah Exclusive Two Way Cake 04 Natural 12 g
+MY-TCR2E05-W,Malaysia Wardah Exclusive Two Way Cake 05 Coffee Beige 12 g
 MY-TCR3LLF01-W,Malaysia Wardah Lightening Powder Foundation Light Feel 01 Light Beige 12 g
 MY-TCR3LLF02-W,Malaysia Wardah Lightening Powder Foundation Light Feel 02 Golden Beige 12 g
 MY-TCR3LLF03-W,Malaysia Wardah Lightening Powder Foundation Light Feel 03 Sheer Pink 12 g
@@ -1971,38 +1999,8 @@ TWC-CLFTRE-W,Wardah Colorfit Velvet Powder Foundation Refill 33W Olive Beige 11 
 TWC-CLFTRF-W,Wardah Colorfit Velvet Powder Foundation Refill 43W Golden Sand 11 g
 TWC-CLFTRG-W,Wardah Colorfit Velvet Powder Foundation Refill 42N Neutral Sand 11 g
 TWC-CLFTRH-W,Wardah Colorfit Velvet Powder Foundation Refill 52N Almond 11 g
-WJ-P1WS-P100,Putri Wet Jelly 100 ML (Pc(s))
-WL-P1-P100,Putri Wet Look 100 ML (Pc(s))
 TWC-OMGD-OMG,OMG Oh My Glam Coverlast Two Way Cake 41W Sand 12 g
 TWC-OMGL-OMG,OMG Oh My Glam Coverlast Two Way Cake 21W Light 12 g
 TWC-OMGM-OMG,OMG Oh My Glam Coverlast Two Way Cake 32N Natural 12 g
-MY-LEMC01DP-W,Malaysia Wardah Exclusive Matte Lip Cream 01 Red-dicted 4g
-MY-LEMC02DP-W,Malaysia Wardah Exclusive Matte Lip Cream 02 Fuschionately 4g
-MY-LEMC03DP-W,Malaysia Wardah Exclusive Matte Lip Cream 03 See You Latte 4g
-MY-LEMC04DP-W,Malaysia Wardah Exclusive Matte Lip Cream 04 Pink Me 4g
-MY-LEMC05DP-W,Malaysia Wardah Exclusive Matte Lip Cream 05 Speachless 4g
-MY-LEMC06DP-W,Malaysia Wardah Exclusive Matte Lip Cream 06 Feeling Red 4g
-MY-LEMC07DP-W,"Malaysia Wardah Exclusive Matte Lip Cream 07 Hello, Ruby 4g"
-MY-LEMC08DP-W,Malaysia Wardah Exclusive Matte Lip Cream 08 Pinkcredible 4g
-MY-LEMC09DP-W,Malaysia Wardah Exclusive Matte Lip Cream 09 Mauve On ! 4G
-MY-LEMC10DP-W,Malaysia Wardah Exclusive Matte Lip Cream 10 Berry Pretty 4g
-MY-LEMC11DP-W,Malaysia Wardah Exclusive Matte Lip Cream 11 Oh So Nude ! 4g
-MY-LEMC12DP-W,Malaysia Wardah Exclusive Matte Lip Cream 12 Plum It Up 4g
-MY-LEMC13DP-W,Malaysia Wardah Exclusive Matte Lip Cream 13 Fruit Punch 4g
-MY-LEMC14DP-W,Malaysia Wardah Exclusive Matte Lip Cream 14 My Honey Bee 4g
-MY-LEMC15DP-W,Malaysia Wardah Exclusive Matte Lip Cream 15 Pinky Plumise 4g
-MY-LEMC16DP-W,Malaysia Wardah Exclusive Matte Lip Cream 16 Heartbeet 4g
-MY-LEMC17DP-W,Malaysia Wardah Exclusive Matte Lip Cream 17 Rosy Cheek 4g
-MY-LEMC18DP-W,Malaysia Wardah Exclusive Matte Lip Cream 18 Saturdate Night 4g
-MY-TCR2E01-W,Malaysia Wardah Exclusive Two Way Cake 01 Sheer Pink 12 g
-MY-TCR2E02-W,Malaysia Wardah Exclusive Two Way Cake 02 Light Beige 12 g
-MY-TCR2E03-W,Malaysia Wardah Exclusive Two Way Cake 03 Sandy Beige 12 g
-MY-TCR2E04-W,Malaysia Wardah Exclusive Two Way Cake 04 Natural 12 g
-MY-TCR2E05-W,Malaysia Wardah Exclusive Two Way Cake 05 Coffee Beige 12 g
-MY-FRRELF01-W,Malaysia Wardah Exclusive Liquid Foundation 01 Light Beige 20 ml
-MY-FRRELF02-W,Malaysia Wardah Exclusive Liquid Foundation 02 Sheer Pink 20 ml
-MY-FRRELF03-W,Malaysia Wardah Exclusive Liquid Foundation 03 Sandy Beige 20 ml
-MY-FRRELF04-W,Malaysia Wardah Exclusive Liquid Foundation 04 Natural 20 ml
-MY-FRRRELF05-W,Malaysia Wardah Exclusive Liquid Foundation 05 Coffee Beige 20 ml
-MY-CUSR2EFC04-W,Malaysia Wardah Exclusive Flawless Cover Cushion 04 Natural 15 g
-MY-SRMCDSI-W,Malaysia Wardah C-Defense Serum 17 ml
+WJ-P1WS-P100,Putri Wet Jelly 100 ML (Pc(s))
+WL-P1-P100,Putri Wet Look 100 ML (Pc(s))
