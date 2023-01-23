@@ -1,9 +1,9 @@
 Code,Product,Quantity on Hand,Reserved,Available
-00981,"MAKE OVER Intense Matte Lip Cream 003 Secret 6,5 g (Pc(s))",1102.0,0.0,1102.0
-00986,"MAKE OVER Intense Matte Lip Cream 008 Libertine 6,5 g (Pc(s))",1102.0,0.0,1102.0
-01258,"MAKE OVER Intense Matte Lip Cream 019 Vogue 6,5 g (Pc(s))",643.0,0.0,643.0
-01445,"MAKE OVER Intense Matte Lip Cream 011 Pompous 6,5 g (Pc(s))",595.0,0.0,595.0
-01499,MAKE OVER Hyperblack Superstay Liner 1 g ,1440.0,0.0,1440.0
+00981,"MAKE OVER Intense Matte Lip Cream 003 Secret 6,5 g (Pc(s))",22.0,0.0,22.0
+00986,"MAKE OVER Intense Matte Lip Cream 008 Libertine 6,5 g (Pc(s))",22.0,0.0,22.0
+01258,"MAKE OVER Intense Matte Lip Cream 019 Vogue 6,5 g (Pc(s))",63.0,0.0,63.0
+01445,"MAKE OVER Intense Matte Lip Cream 011 Pompous 6,5 g (Pc(s))",15.0,0.0,15.0
+01499,MAKE OVER Hyperblack Superstay Liner 1 g ,280.0,0.0,280.0
 02370,Wardah Lightening Powder Foundation Light Feel 02 Golden Beige 12 g,8202.0,0.0,8202.0
 02413,Wardah Lightening Micellar Gentle Wash 100 ml,16427.0,0.0,16427.0
 02428,Wardah Lightening Face Toner 125 ml,8202.0,0.0,8202.0
@@ -14,7 +14,7 @@ Code,Product,Quantity on Hand,Reserved,Available
 02812,Kahf Skin Energizing and Brightening Face Wash 100 ml,4479.0,0.0,4479.0
 02813,Kahf Oil and Acne Care Face Wash 100 ml,4202.0,0.0,4202.0
 02864,Wardah Colorfit Velvet Powder Foundation 32N Neutral Beige 11 g,6156.0,0.0,6156.0
-02961,Make Over Lash Impulse Waterproof Mascara 9 ml,2232.0,0.0,2232.0
+02961,Make Over Lash Impulse Waterproof Mascara 9 ml,72.0,0.0,72.0
 02966,Kahf Gentle Exfoliating Face Scrub 100 ml,4479.0,0.0,4479.0
 02967,Kahf Triple Protection Sunscreen Moisturizer 30 ml,1460.0,0.0,1460.0
 03123,Wardah Instaperfect BROWFLASH 3-in-1 Brow Perfector 02 Ash Brown 0.6 g,2051.0,0.0,2051.0
@@ -25,7 +25,8 @@ Code,Product,Quantity on Hand,Reserved,Available
 03181,Biodef Natural Protection Mint + Sea Salt Body Wash Antiseptik Alami Pouch 400 ml,913.0,0.0,913.0
 03183,Biodef Natural Protection Mint + Yuzu Body Wash Antiseptik Alami Pouch 400 ml,599.0,0.0,599.0
 03184,Biodef Natural Protection Mint + Yuzu Hand Wash Antiseptik Alami Botol 250 ml,790.0,0.0,790.0
-03272,MAKE OVER POWERSKIN Bi-Phase Oil Micellar Water 200 ml,1190.0,0.0,1190.0
+03222,Kahf Brightening and Texture Refining Face Serum 35 ml,1488.0,0.0,1488.0
+03272,MAKE OVER POWERSKIN Bi-Phase Oil Micellar Water 200 ml,30.0,0.0,30.0
 03737,LABORE Sensitive Skin Care BiomeRepair Barrier Revive Cream 50 ml,239.0,0.0,239.0
 03740,LABORE Sensitive Skin Care GentleBiome Mild Cleanser 100 ml,239.0,0.0,239.0
 03743,LABORE Sensitive Skin Care BiomeProtect Physical Sunscreen 30 ml,239.0,0.0,239.0
@@ -35,4 +36,5 @@ Code,Product,Quantity on Hand,Reserved,Available
 03910,Wardah Colorfit Last All Day Lip Paint 15. Dazzling New York,3204.0,0.0,3204.0
 03995,Wardah Exclusive Two Way Cake 02 Light Beige 12 g,4142.0,0.0,4142.0
 04048,Instaperfect MATTESETTER Lip Matte Paint 04. VIBE 5.5 g,2051.0,0.0,2051.0
+04227,Kahf All-in-One Power Toning Face Spray 100 ml,1464.0,0.0,1464.0
 04706,"Wardah Exclusive Matte Lip Cream 07 Hello, Ruby 4g",4142.0,0.0,4142.0
