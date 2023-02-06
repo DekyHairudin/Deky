@@ -1,39 +1,38 @@
 Code,Product,Quantity on Hand,Reserved,Available
 80001,OMG OH MY GLAM Matte Kiss Lip Cream 01 Dreamy 3.5 g,48.0,0.0,48.0
-80002,OMG OH MY GLAM Matte Kiss Lip Cream 02 Juicy 3.5 g,732.0,144.0,588.0
-80003,OMG OH MY GLAM Matte Kiss Lip Cream 03 Flame 3.5 g,2568.0,2304.0,264.0
+80002,OMG OH MY GLAM Matte Kiss Lip Cream 02 Juicy 3.5 g,300.0,288.0,12.0
+80003,OMG OH MY GLAM Matte Kiss Lip Cream 03 Flame 3.5 g,264.0,144.0,120.0
 80004,OMG OH MY GLAM Matte Kiss Lip Cream 04 Sunset 3.5 g,12.0,0.0,12.0
-80005,OMG OH MY GLAM Matte Kiss Lip Cream 05 Punch 3.5 g,2448.0,288.0,2160.0
-80006,OMG OH MY GLAM Matte Kiss Lip Cream 06 Sparkle 3.5 g,600.0,576.0,24.0
-80007,OMG OH MY GLAM Matte Kiss Lip Cream 07 Delight 3.5 g,3360.0,0.0,3360.0
-80008,OMG OH MY GLAM Matte Kiss Lip Cream 08 Skyfall 3.5 g,3674.0,2160.0,1514.0
-80009,OMG OH MY GLAM Matte Kiss Lip Cream 09 Charm 3.5 g,6180.0,2016.0,4164.0
+80005,OMG OH MY GLAM Matte Kiss Lip Cream 05 Punch 3.5 g,2160.0,288.0,1872.0
+80006,OMG OH MY GLAM Matte Kiss Lip Cream 06 Sparkle 3.5 g,24.0,0.0,24.0
+80007,OMG OH MY GLAM Matte Kiss Lip Cream 07 Delight 3.5 g,3360.0,144.0,3216.0
+80008,OMG OH MY GLAM Matte Kiss Lip Cream 08 Skyfall 3.5 g,1226.0,288.0,938.0
+80009,OMG OH MY GLAM Matte Kiss Lip Cream 09 Charm 3.5 g,7008.0,4752.0,2256.0
 80010,OMG OH MY GLAM Matte Kiss Lip Cream 10 Shell 3.5 g,96.0,0.0,96.0
-80012,OMG OH MY GLAM Matte Kiss Lip Cream 12 Scarlet 3.5 g,52764.0,24192.0,28572.0
-80021,OMG Oh My Glam Juicy Kiss Lip Tint Serum – 01 Juicy Strawberry,2136.0,96.0,2040.0
-80022,OMG Oh My Glam Juicy Kiss Lip Tint Serum – 02 Juicy Grapefruit,7188.0,0.0,7188.0
-80023,OMG Oh My Glam Juicy Kiss Lip Tint Serum – 03 Juicy Peach,9744.0,0.0,9744.0
-80024,OMG Oh My Glam Juicy Kiss Lip Tint Serum – 04 Juicy Plum,11436.0,0.0,11436.0
-80027,OMG OH MY GLOW Peach Glowing Face Wash 9 g,23280.0,120.0,23160.0
-80028,OMG OH MY GLOW Peach Glowing Toner 100 ml,83230.0,468.0,82762.0
-80029,OMG OH MY GLOW Peach Glowing Face Wash 50 g,182336.0,448.0,181888.0
-80030,OMG Oh My Glow Peach Glowing Cream 7.5 g,2856.0,240.0,2616.0
-80031,OMG Oh My Glow Peach Glowing Cream 25 g,198505.0,240.0,198265.0
-80035,OMG Oh My Glam Coverlast Two Way Cake 21W Light 12 g,37476.0,36.0,37440.0
-80036,OMG Oh My Glam Coverlast Two Way Cake 32N Natural 12 g,25020.0,0.0,25020.0
-80037,OMG Oh My Glam Coverlast Two Way Cake 41W Sand 12 g,22788.0,324.0,22464.0
-80044,OMG Oh My Glam Matte Kiss Lip Cream 13 Latte 3.5 g,8760.0,0.0,8760.0
+80012,OMG OH MY GLAM Matte Kiss Lip Cream 12 Scarlet 3.5 g,35052.0,2448.0,32604.0
+80021,OMG Oh My Glam Juicy Kiss Lip Tint Serum – 01 Juicy Strawberry,2040.0,0.0,2040.0
+80022,OMG Oh My Glam Juicy Kiss Lip Tint Serum – 02 Juicy Grapefruit,7188.0,96.0,7092.0
+80023,OMG Oh My Glam Juicy Kiss Lip Tint Serum – 03 Juicy Peach,9552.0,0.0,9552.0
+80024,OMG Oh My Glam Juicy Kiss Lip Tint Serum – 04 Juicy Plum,11436.0,96.0,11340.0
+80027,OMG OH MY GLOW Peach Glowing Face Wash 9 g,21480.0,960.0,20520.0
+80028,OMG OH MY GLOW Peach Glowing Toner 100 ml,84922.0,1008.0,83914.0
+80029,OMG OH MY GLOW Peach Glowing Face Wash 50 g,184072.0,1400.0,182672.0
+80030,OMG Oh My Glow Peach Glowing Cream 7.5 g,2256.0,360.0,1896.0
+80031,OMG Oh My Glow Peach Glowing Cream 25 g,197485.0,1020.0,196465.0
+80035,OMG Oh My Glam Coverlast Two Way Cake 21W Light 12 g,37260.0,108.0,37152.0
+80036,OMG Oh My Glam Coverlast Two Way Cake 32N Natural 12 g,27180.0,180.0,27000.0
+80037,OMG Oh My Glam Coverlast Two Way Cake 41W Sand 12 g,25632.0,216.0,25416.0
+80044,OMG Oh My Glam Matte Kiss Lip Cream 13 Latte 3.5 g,19008.0,9216.0,9792.0
 80045,OMG Oh My Glam Matte Kiss Lip Cream 14 Cappuccino 3.5 g,84.0,0.0,84.0
 80046,OMG Oh My Glam Matte Kiss Lip Cream 15 Espresso 3.5 g,72.0,0.0,72.0
-80047,OMG Oh My Glam Coverlast Liquid Foundation 13 C Ivory,44.0,44.0,0.0
-80048,OMG Oh My Glam Coverlast Liquid Foundation 21 W Light,9944.0,0.0,9944.0
-80049,OMG Oh My Glam Coverlast Liquid Foundation 31 W Beige,3740.0,44.0,3696.0
-80050,OMG Oh My Glam Coverlast Liquid Foundation 32 N Natural,19668.0,176.0,19492.0
-80051,OMG Oh My Glam Coverlast Liquid Foundation 41 W Sand,2772.0,132.0,2640.0
+80048,OMG Oh My Glam Coverlast Liquid Foundation 21 W Light,7788.0,2420.0,5368.0
+80049,OMG Oh My Glam Coverlast Liquid Foundation 31 W Beige,3520.0,88.0,3432.0
+80050,OMG Oh My Glam Coverlast Liquid Foundation 32 N Natural,19360.0,0.0,19360.0
+80051,OMG Oh My Glam Coverlast Liquid Foundation 41 W Sand,2596.0,88.0,2508.0
 80053,OMG Oh My Glam LASHTENTION Waterproof Mascara 6.5 g,28212.0,0.0,28212.0
-80056,OMG Oh My Glow Mugwort Acne Serum 20 ml,13032.0,268.0,12764.0
-80058,OMG Oh My Glow Peach Glowing Serum 20 ml,70536.0,720.0,69816.0
-80059,OMG Oh My Glow Peach Glowing Serum 7.5 g,116364.0,144.0,116220.0
+80056,OMG Oh My Glow Mugwort Acne Serum 20 ml,12696.0,124.0,12572.0
+80058,OMG Oh My Glow Peach Glowing Serum 20 ml,69744.0,0.0,69744.0
+80059,OMG Oh My Glow Peach Glowing Serum 7.5 g,116220.0,0.0,116220.0
 80104,OMG Oh My Glam Matte Kiss Lip Cream Cycle of Love Edition Si Paling Bucin 3.5 g,26352.0,0.0,26352.0
 80105,OMG Oh My Glam Matte Kiss Lip Cream Cycle of Love Edition Si Paling In Love 3.5 g,15840.0,0.0,15840.0
 80106,OMG Oh My Glam Matte Kiss Lip Cream Cycle of Love Edition Si Paling PDKT 3.5 g,16128.0,0.0,16128.0
