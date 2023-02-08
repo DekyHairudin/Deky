@@ -9,25 +9,9 @@ Code,Product,Quantity on Hand,Reserved,Available
 01781,Wardah Scentsation Peaceful Eau De Toilette 35 ml (Pc(s)),11.0,0.0,11.0
 01782,Wardah Scentsation Passion Eau De Toilette 35 ml (Pc(s)),11.0,0.0,11.0
 01884,Wardah Scentsation Purity Eau De Toilette 35 ml (Pc(s)),11.0,0.0,11.0
-02135,Emina Creamytint 01 Brick Town 3.6 g,7.0,0.0,7.0
-02136,Emina Creamytint 02 Peach Crush 3.6 g,7.0,0.0,7.0
-02137,Emina Creamytint 03 Sunbeam 3.6 g,7.0,0.0,7.0
-02138,Emina Creamytint 04 Wild Berry 3.6 g,7.0,0.0,7.0
-02139,Emina Creamytint 05 Cherry Soda 3.6 g,7.0,0.0,7.0
-02161,Wardah Colorfit Ultralight Matte Lipstick 01 Parfait Pink 3.6 g,13.0,0.0,13.0
-02163,Wardah Colorfit Ultralight Matte Lipstick 03 Caramel Nude 3.6 g,13.0,0.0,13.0
-02164,Wardah Colorfit Ultralight Matte Lipstick 04 Mocca Brown 3.6 g,13.0,0.0,13.0
-02165,Wardah Colorfit Ultralight Matte Lipstick 05 Blossom Pink 3.6 g,13.0,0.0,13.0
-02166,Wardah Colorfit Ultralight Matte Lipstick 06 Punch Fuchsia 3.6 g,13.0,0.0,13.0
-02167,Wardah Colorfit Ultralight Matte Lipstick 07 Crimson Red 3.6 g,13.0,0.0,13.0
-02168,Wardah Colorfit Ultralight Matte Lipstick 08 Woodsy Brown 3.6 g,13.0,0.0,13.0
-02370,Wardah Lightening Powder Foundation Light Feel 02 Golden Beige 12 g,6361.0,6244.0,117.0
-02396,Emina Glossy Stain 02 Apple Shower 3 g,7.0,0.0,7.0
-02399,Emina Glossy Stain 04 Peach Sprinkles 3 g,7.0,0.0,7.0
-02406,Emina Glossy Stain 01 Autumn Bell 3 g,7.0,0.0,7.0
-02408,Emina Glossy Stain 05 Spring Dazzle 3 g,7.0,0.0,7.0
-02413,Wardah Lightening Micellar Gentle Wash 100 ml,14577.0,6244.0,8333.0
-02428,Wardah Lightening Face Toner 125 ml,6356.0,6244.0,112.0
+02370,Wardah Lightening Powder Foundation Light Feel 02 Golden Beige 12 g,6366.0,0.0,6366.0
+02413,Wardah Lightening Micellar Gentle Wash 100 ml,14591.0,0.0,14591.0
+02428,Wardah Lightening Face Toner 125 ml,6366.0,0.0,6366.0
 02808,Kahf Invigorating Waterfall Eau de Toilette 35 ml,4490.0,0.0,4490.0
 02809,Kahf Humbling Forest Eau de Toilette 35 ml,28.0,0.0,28.0
 02810,Kahf True Brotherhood Eau de Toilette 35 ml,30.0,0.0,30.0
@@ -35,14 +19,10 @@ Code,Product,Quantity on Hand,Reserved,Available
 02812,Kahf Skin Energizing and Brightening Face Wash 100 ml,4479.0,0.0,4479.0
 02813,Kahf Oil and Acne Care Face Wash 100 ml,17.0,0.0,17.0
 02864,Wardah Colorfit Velvet Powder Foundation 32N Neutral Beige 11 g,3666.0,0.0,3666.0
-02869,Wardah Colorfit Ultralight Matte Lipstick 09 Romantic Namsan 3.6 g,13.0,0.0,13.0
-02870,Wardah Colorfit Ultralight Matte Lipstick 10 Stunning Seoul 3.6 g,13.0,0.0,13.0
-02871,Wardah Colorfit Ultralight Matte Lipstick 11 Sunkissed Jeju 3.6 g,13.0,0.0,13.0
-02872,Wardah Colorfit Ultralight Matte Lipstick 12 Autumn Nami 3.6 g,13.0,0.0,13.0
-02873,Wardah Colorfit Ultralight Matte Lipstick 13 Upbeat Hongdae 3.6 g,13.0,0.0,13.0
 02961,Make Over Lash Impulse Waterproof Mascara 9 ml,72.0,0.0,72.0
 02966,Kahf Gentle Exfoliating Face Scrub 100 ml,19.0,0.0,19.0
 02967,Kahf Triple Protection Sunscreen Moisturizer 30 ml,12.0,0.0,12.0
+03123,Wardah Instaperfect BROWFLASH 3-in-1 Brow Perfector 02 Ash Brown 0.6 g,2051.0,2051.0,0.0
 03176,Biodef Natural Protection Mint + Green Tea Body Wash Antiseptik Alami Botol 275 ml,14.0,0.0,14.0
 03177,Biodef Natural Protection Mint + Green Tea Body Wash Antiseptik Alami Pouch 400 ml,20.0,0.0,20.0
 03179,Biodef Natural Protection Mint + Green Tea Hand Wash Antiseptik Alami Pouch 200 ml,20.0,0.0,20.0
@@ -64,5 +44,6 @@ Code,Product,Quantity on Hand,Reserved,Available
 03893,Kahf Triple Action Oil and Comedo Defense Face Wash 100 ml,17.0,0.0,17.0
 03910,Wardah Colorfit Last All Day Lip Paint 15. Dazzling New York,678.0,0.0,678.0
 03995,Wardah Exclusive Two Way Cake 02 Light Beige 12 g,62.0,0.0,62.0
+04048,Instaperfect MATTESETTER Lip Matte Paint 04. VIBE 5.5 g,2051.0,2051.0,0.0
 04227,Kahf All-in-One Power Toning Face Spray 100 ml,16.0,0.0,16.0
 04706,"Wardah Exclusive Matte Lip Cream 07 Hello, Ruby 4g",62.0,0.0,62.0
