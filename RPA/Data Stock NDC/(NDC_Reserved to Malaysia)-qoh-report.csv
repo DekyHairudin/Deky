@@ -1,11 +1,13 @@
 Code,Product,Quantity on Hand,Reserved,Available
 00009,Wardah Roll On For Her 60 ml,30.0,0.0,30.0
-00011,Wardah C-Defense DD Cream Light 20 ml (Pc(s)),17640.0,0.0,17640.0
+00011,Wardah C-Defense DD Cream Light 20 ml (Pc(s)),21600.0,0.0,21600.0
 00012,Wardah C-Defense DD Cream Natural 20 ml (Pc(s)),9612.0,0.0,9612.0
-00071,Wardah EyeXpert Aqua Lash Mascara 6 gr (Pc(s)),5184.0,5184.0,0.0
+00071,Wardah EyeXpert Aqua Lash Mascara 6 gr (Pc(s)),7776.0,5184.0,2592.0
 00073,Wardah EyeXpert Eye & Lip Makeup Remover 100 ml,2340.0,0.0,2340.0
 00076,Wardah EyeXpert Optimum Hi-Black Liner 1 gr (Pc(s)),40.0,0.0,40.0
-00079,"Wardah Eyexpert Staylast Liquid Eyeliner 3,5 gr (Pc(s))",288.0,288.0,0.0
+00077,Wardah EyeXpert Perfectcurl Mascara 7 gr (Pc(s)),1152.0,0.0,1152.0
+00079,"Wardah Eyexpert Staylast Liquid Eyeliner 3,5 gr (Pc(s))",720.0,288.0,432.0
+00080,Wardah Lightening BB Cream Light 15 ml (pc(s)),3504.0,0.0,3504.0
 00082,Wardah Lightening BB Cream Natural 15 ml (pc(s)),2496.0,0.0,2496.0
 00117,Wardah Blush On A 4 gr,360.0,360.0,0.0
 00173,Wardah Lip Palette Perfect Red 10 g (pc(s)),78.0,0.0,78.0
@@ -14,14 +16,18 @@ Code,Product,Quantity on Hand,Reserved,Available
 00903,Wardah Eye Brow Brown,400.0,0.0,400.0
 00933,"Wardah Eye Shadow A 3,3 gr (pc(s))",2760.0,2760.0,0.0
 00947,Wardah Exclusive Matte Lip Cream 06 Feeling Red 4 gr (Pc(s)),96.0,0.0,96.0
+00948,Wardah Eye Liner Black,2400.0,0.0,2400.0
 00957,Emina Sugar Rush Lip Scrub 4.2 gr (Pc(s)),3168.0,0.0,3168.0
 01166,Emina Pop Rouge Pressed Eye Shadow Brick 3.3 gr (Pc(s)),378.0,0.0,378.0
 01499,MAKE OVER Hyperblack Superstay Liner 1 g ,72.0,0.0,72.0
 01528,Wardah Everyday Fruity Sheer Lip Balm Strawberry 4 g,2400.0,2400.0,0.0
 01529,Wardah Everyday Fruity Sheer Lip Balm Grape 4 g,432.0,432.0,0.0
-01571,Wardah EyeXpert The Volume Expert Mascara 7 gr (Pc(s)),2160.0,2160.0,0.0
-01575,Wardah Acnederm Acne Spot Treatment Gel 15 ml (Pc(s)),4620.0,0.0,4620.0
-01606,Wardah Nature Daily Aloe Hydramild Moisturizer Cream 40 ml,5760.0,5760.0,0.0
+01554,Wardah Nature Daily Seaweed Cleansing Micellar Water 100 ml,476.0,0.0,476.0
+01571,Wardah EyeXpert The Volume Expert Mascara 7 gr (Pc(s)),3840.0,2160.0,1680.0
+01575,Wardah Acnederm Acne Spot Treatment Gel 15 ml (Pc(s)),8400.0,0.0,8400.0
+01606,Wardah Nature Daily Aloe Hydramild Moisturizer Cream 40 ml,9120.0,5760.0,3360.0
+01617,Wardah Nature Daily Aloe Hydramild Multifunction Gel 100 ml,900.0,0.0,900.0
+01620,Wardah Nature Daily Aloe Hydramild Facial Wash 100 ml ,330.0,0.0,330.0
 01707,Wardah EyeXpert Eyebrow Kit 3 g (Pc(s)),672.0,672.0,0.0
 01912,Wardah Instaperfect BROWFESSIONAL 3D Brow Mascara 02. DEEP GREY 5.5 g,852.0,0.0,852.0
 01917,Emina Lip Cushion 02. Be Cherry 9 g,96.0,0.0,96.0
@@ -74,11 +80,15 @@ Code,Product,Quantity on Hand,Reserved,Available
 02369,Wardah Lightening Powder Foundation Light Feel 01 Light Beige 12 g,720.0,0.0,720.0
 02372,Wardah Lightening Powder Foundation Light Feel 04 Natural 12 g,4284.0,4284.0,0.0
 02394,Wardah Lightening Whip Facial Foam 100 ml,35.0,0.0,35.0
-02404,Wardah Lightening Liquid Concealer 02 Beige 7 g (Blister),431.0,360.0,71.0
+02403,Wardah Lightening Liquid Concealer 01 Light 7 g (Blister),5544.0,0.0,5544.0
+02404,Wardah Lightening Liquid Concealer 02 Beige 7 g (Blister),1871.0,360.0,1511.0
 02413,Wardah Lightening Micellar Gentle Wash 100 ml,25.0,0.0,25.0
-02419,Wardah Lightening Liquid Foundation 02. Beige 25 ml (Blister),1332.0,1332.0,0.0
+02418,Wardah Lightening Liquid Foundation 01. Light Beige 25 ml (Blister),4428.0,0.0,4428.0
+02419,Wardah Lightening Liquid Foundation 02. Beige 25 ml (Blister),3222.0,1332.0,1890.0
+02420,Wardah Lightening Liquid Foundation 03. Ivory 25 ml (Blister),9432.0,0.0,9432.0
+02421,Wardah Lightening Liquid Foundation 04. Natural 25 ml (Blister),5688.0,0.0,5688.0
 02425,Wardah Exclusive Glowing Highlighter 6.5 g,720.0,720.0,0.0
-02426,Wardah Lightening Blue Clay Mask 50 g,48.0,0.0,48.0
+02426,Wardah Lightening Blue Clay Mask 50 g,12548.0,0.0,12548.0
 02453,Emina Bare with Me Mineral Mild Foundation 03 Caramel 30 ml,82.0,0.0,82.0
 02470,Wardah UV Shield Active Protection Serum SPF 50 35 ml,27258.0,0.0,27258.0
 02471,Wardah UV Shield Essential Sunscreen Gel SPF 30 40 ml,35.0,0.0,35.0
@@ -95,9 +105,11 @@ Code,Product,Quantity on Hand,Reserved,Available
 02811,Kahf Revered Oud Eau de Toilette 35 ml,176.0,0.0,176.0
 02812,Kahf Skin Energizing and Brightening Face Wash 100 ml,750.0,0.0,750.0
 02813,Kahf Oil and Acne Care Face Wash 100 ml,855.0,0.0,855.0
+02848,Wardah Lightening Face Mist 60 ml,20000.0,0.0,20000.0
 02849,Wardah Colorfit Mattifying Powder 22N Light Ivory 15 g,3360.0,3360.0,0.0
-02854,Wardah Colorfit Matte Foundation 22N Light Ivory 25 ml,2604.0,2604.0,0.0
-02856,Wardah Colorfit Matte Foundation 32N Neutral Beige 25 ml,2418.0,2418.0,0.0
+02853,Wardah Colorfit Matte Foundation 11C Pink Fair 25 ml,806.0,0.0,806.0
+02854,Wardah Colorfit Matte Foundation 22N Light Ivory 25 ml,3534.0,2604.0,930.0
+02856,Wardah Colorfit Matte Foundation 32N Neutral Beige 25 ml,2728.0,2418.0,310.0
 02857,Wardah Colorfit Matte Foundation 33W Olive Beige 25 ml,806.0,806.0,0.0
 02862,Wardah Colorfit Velvet Powder Foundation 22N Light Ivory 11 g,2520.0,2520.0,0.0
 02864,Wardah Colorfit Velvet Powder Foundation 32N Neutral Beige 11 g,4212.0,4212.0,0.0
@@ -120,7 +132,11 @@ Code,Product,Quantity on Hand,Reserved,Available
 03104,Emina Poppin’ Matte 03 Game On 4.5 g,384.0,0.0,384.0
 03106,Emina Poppin’ Matte 05 Easy Peasy 4.5 g,1152.0,0.0,1152.0
 03126,Emina Lip Mask Orange Squash 9 g,22.0,0.0,22.0
+03136,Wardah Crystal Secret Bright Activating Night Cream 30 g,7200.0,0.0,7200.0
+03139,Wardah Crystal Secret Dark Spot & Brightening Serum 20 ml,6625.0,0.0,6625.0
 03140,Wardah Crystal Secret Pure Treatment Essence 30 ml,1300.0,1300.0,0.0
+03142,Wardah Crystal Secret Pure Treatment Essence 100 ml,4420.0,0.0,4420.0
+03144,Wardah Crystal Secret Foaming Cleanser with Natural AHA+PHA 100 ml,24630.0,0.0,24630.0
 03203,Emina Natura Pal Gel Cleanser 100 ml,6140.0,0.0,6140.0
 03205,Emina Natura Pal Toner Essence 100 ml,24.0,0.0,24.0
 03276,MAKE OVER Powerstay Matte Powder Foundation W50 Creme Tan 12 g,24.0,0.0,24.0
@@ -128,29 +144,33 @@ Code,Product,Quantity on Hand,Reserved,Available
 03316,MAKE OVER Powerstay Matte Powder Foundation W12 Warm Marble 12 g,24.0,0.0,24.0
 03365,Wardah Colorfit Cream Blush 01 SAND CORAL 3 g,108.0,0.0,108.0
 03370,Wardah COLORFIT QUAD EYE PALETTE 02 ROSÉ AURORA 6 g,1980.0,1980.0,0.0
+03400,Wardah Colorfit Perfect Glow Cushion 11C Pink Fair 15 g,1680.0,0.0,1680.0
 03401,Wardah Colorfit Perfect Glow Cushion 22N Light Ivory 15 g,1632.0,1632.0,0.0
-03402,Wardah Colorfit Perfect Glow Cushion 23W Warm Ivory 15 g,1344.0,1344.0,0.0
+03402,Wardah Colorfit Perfect Glow Cushion 23W Warm Ivory 15 g,3792.0,1344.0,2448.0
+03403,Wardah Colorfit Perfect Glow Cushion 32N Neutral Beige 15 g,2880.0,0.0,2880.0
 03407,Wardah Colorfit Perfect Glow Cushion 52N Almond 15 g,912.0,912.0,0.0
 03445,Wardah EyeXpert Eyebrow Pencil Black 1.14 g (Blister),16.0,0.0,16.0
 03446,Wardah EyeXpert Eyebrow Pencil Brown 1.14 g (Blister),47.0,0.0,47.0
 03448,Wardah EyeXpert Matic Brow Definer 01 LIGHT BROWN 0.25 g,1350.0,1350.0,0.0
 03449,Wardah EyeXpert Matic Brow Definer 02 DARK BROWN 0.25 g,1350.0,1350.0,0.0
 03450,Wardah EyeXpert Matic Brow Definer 03 DARK GREY 0.25 g,810.0,810.0,0.0
+03733,Crystallure Moisture Rich Cleansing Foam 100 ml,60.0,0.0,60.0
 03780,MAKE OVER Powerstay Demi-Matte Cover Cushion W50 Creme Tan 15 g,48.0,48.0,0.0
-03794,Wardah Perfect Bright Moisturizer Bright + Smooth Glow SPF 30 PA+++ 20 ml,36.0,36.0,0.0
+03794,Wardah Perfect Bright Moisturizer Bright + Smooth Glow SPF 30 PA+++ 20 ml,6156.0,36.0,6120.0
 03796,Wardah Perfect Bright Bright + Night Glow Night Moisturizer 20 ml,7200.0,7200.0,0.0
 03814,Wardah Renew You Toner Essence 100 ml (Pc(s)),2460.0,0.0,2460.0
-03816,Wardah Renew You Night Cream 30 g (Pc(s)),2328.0,2328.0,0.0
-03818,Wardah Renew You Day Cream 30 g (Pc(s)),3240.0,1680.0,1560.0
+03816,Wardah Renew You Night Cream 30 g (Pc(s)),8112.0,2328.0,5784.0
+03817,Wardah Renew You Eye Cream 10 g (Pc(s)),1248.0,0.0,1248.0
+03818,Wardah Renew You Day Cream 30 g (Pc(s)),5472.0,1680.0,3792.0
 04124,MAKE OVER Powerstay 24H Weightless Liquid Foundation C31 Pink Beige 40 ml,25.0,0.0,25.0
 04132,MAKE OVER Powerstay 24H Weightless Liquid Foundation W60 Creme Cocoa 40 ml,25.0,0.0,25.0
 04133,MAKE OVER Powerstay 24H Weightless Liquid Foundation C62 Rich Cocoa 40 ml,25.0,0.0,25.0
-04165,Kahf Nourishing Beard & Hair Oil 30 ml,240.0,240.0,0.0
-04571,Malaysia Wardah Lightening Hampers Ramadan Untuk Mencerahkan,1066.0,0.0,1066.0
-04572,Malaysia Wardah Colorfit Series Hampers,1068.0,0.0,1068.0
+04165,Kahf Nourishing Beard & Hair Oil 30 ml,528.0,240.0,288.0
 04702,Wardah Exclusive Matte Lip Cream 03 See You Latte 4g,1440.0,1440.0,0.0
 04704,Wardah Exclusive Matte Lip Cream 05 Speachless 4g,2304.0,0.0,2304.0
 04706,"Wardah Exclusive Matte Lip Cream 07 Hello, Ruby 4g",2016.0,2016.0,0.0
 04708,Wardah Exclusive Matte Lip Cream 09 Mauve On ! 4g,3312.0,3312.0,0.0
-04710,Wardah Exclusive Matte Lip Cream 11 Oh So Nude ! 4g,4320.0,4320.0,0.0
+04709,Wardah Exclusive Matte Lip Cream 10 Berry Pretty 4g,1440.0,0.0,1440.0
+04710,Wardah Exclusive Matte Lip Cream 11 Oh So Nude ! 4g,5472.0,4320.0,1152.0
 04711,Wardah Exclusive Matte Lip Cream 12 Plum It Up 4g,1584.0,576.0,1008.0
+04712,Wardah Exclusive Matte Lip Cream 13 Fruit Punch 4g,576.0,0.0,576.0
