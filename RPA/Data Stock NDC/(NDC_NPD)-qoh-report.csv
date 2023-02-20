@@ -1,24 +1,24 @@
 Code,Product,Quantity on Hand,Reserved,Available
 03222,Kahf Brightening and Texture Refining Face Serum 35 ml,4656.0,0.0,4656.0
-03330,Tavi Color Play Face Tint Love Bites 9 g,970.0,0.0,970.0
-03332,Tavi Color Play Face Tint Starburst 9 g,401.0,0.0,401.0
-03333,Tavi Color Play Face Tint Sunset Nectar 9 g,545.0,0.0,545.0
-03335,Tavi Color Play Face Tint Wallflower 9 g,2.0,0.0,2.0
+03330,Tavi Color Play Face Tint Love Bites 9 g,970.0,970.0,0.0
+03332,Tavi Color Play Face Tint Starburst 9 g,401.0,401.0,0.0
+03333,Tavi Color Play Face Tint Sunset Nectar 9 g,545.0,545.0,0.0
+03335,Tavi Color Play Face Tint Wallflower 9 g,2.0,2.0,0.0
 03435,Wardah Crystallure Supreme Revitalizing Rich Cream 10 g <SFG>,2458.0,0.0,2458.0
 03440,Earth Love Life Javanese Moringa & Balinese Starfruit Body Wash 450 ml,1248.0,0.0,1248.0
-03749,LABORÉ Sensitive Skin Care GentleBiome Thermal Soothing Mist 100 ml,1931.0,0.0,1931.0
-03800,Crystallure Dual Refining Treatment Solution 120 ml,540.0,0.0,540.0
+03749,LABORÉ Sensitive Skin Care GentleBiome Thermal Soothing Mist 100 ml,1931.0,1931.0,0.0
 03826,Wardah Lightening SuperSerum Mask 20 ml,90.0,0.0,90.0
-03828,Wardah C-defense SuperSerum Mask 20 ml,33580.0,0.0,33580.0
-03830,Wardah Nature Daily SuperSerum Mask 20 ml,12560.0,0.0,12560.0
-03831,Wardah Crystal Secret Radiance Serum Mask 20 ml,12670.0,0.0,12670.0
-03866,Wardah SuperSerum Mask x2 - C-defense & Perfect Bright,11976.0,0.0,11976.0
+03828,Wardah C-defense SuperSerum Mask 20 ml,18700.0,0.0,18700.0
+03830,Wardah Nature Daily SuperSerum Mask 20 ml,5350.0,0.0,5350.0
+03831,Wardah Crystal Secret Radiance Serum Mask 20 ml,11570.0,0.0,11570.0
+03866,Wardah SuperSerum Mask x2 - C-defense & Perfect Bright,5860.0,0.0,5860.0
 03928,Earth Love Life South Bali Frangipani & Tropical Coconut Water Body Wash 450 ml,624.0,0.0,624.0
 03930,Earth Love Life Javanese Moringa & Balinese Starfruit Body Lotion Serum 250 ml,3650.0,0.0,3650.0
 03931,Earth Love Life Bulgarian Rose & East Nusa Vanilla Body Lotion Serum 250 ml,3192.0,0.0,3192.0
 03932,Earth Love Life Spanish Lavender & Javanese Rice Milk Body Lotion Serum 250 m,1248.0,0.0,1248.0
-04071,Wardah Lightening Oil-Infused Micellar Water 55 ml,22720.0,0.0,22720.0
-04072,Wardah Lightening Oil-Infused Micellar Water 105 ml,28800.0,0.0,28800.0
+04071,Wardah Lightening Oil-Infused Micellar Water 55 ml,22720.0,8240.0,14480.0
+04072,Wardah Lightening Oil-Infused Micellar Water 105 ml,28800.0,18780.0,10020.0
+04198,Emina Cosmic Lash Volume Mascara 6 g,18000.0,0.0,18000.0
 04227,Kahf All-in-One Power Toning Face Spray 100 ml,4500.0,156.0,4344.0
 04838,Make Over Festive 2023 - Gala of The Stars Festive Package (Warm Tone),48.0,0.0,48.0
 04839,Make Over Festive 2023 - Gala of The Stars Festive Package (Cool Tone),36.0,0.0,36.0
