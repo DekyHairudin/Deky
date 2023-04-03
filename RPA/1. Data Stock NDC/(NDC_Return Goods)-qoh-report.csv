@@ -12,10 +12,10 @@ Code,Product,Quantity on Hand,Reserved,Available
 00011,Wardah C-Defense DD Cream Light 20 ml (Pc(s)),18.0,0.0,18.0
 00012,Wardah C-Defense DD Cream Natural 20 ml (Pc(s)),13.0,0.0,13.0
 00013,Wardah C-defense Serum 17 ml (Pc(s)),11.0,0.0,11.0
-00015,Crystallure 02 Ruby Red 3.8 gr,3.0,0.0,3.0
-00018,Crystallure 05 Tourmaline Pink 3.8 gr,4.0,0.0,4.0
-00021,Crystallure 08 Topaz Creme 3.8 gr,2.0,0.0,2.0
-00022,Crystallure 09 Citrine Honey 3.8 gr,3.0,0.0,3.0
+00015,Lipstick Crystallure 02 Ruby Red 3.8 gr (Pc(s)),3.0,0.0,3.0
+00018,Lipstick Crystallure 05 Tourmaline Pink 3.8 gr (Pc(s)),4.0,0.0,4.0
+00021,Lipstick Crystallure 08 Topaz crème 3.8 gr (Pc(s)),2.0,0.0,2.0
+00022,Lipstick Crystallure 09 Citrine Honey 3.8 gr (Pc(s)),3.0,0.0,3.0
 00024,Wardah Exclusive Creamy Foundation 01 Light Beige 10 gr (pc(s)),14.0,0.0,14.0
 00025,Wardah Exclusive Creamy Foundation 02 Sheer Pink 10 gr (pc(s)),13.0,0.0,13.0
 00026,Wardah Exclusive Creamy Foundation 03 Sandy Beige 10 gr (pc(s)),15.0,0.0,15.0
@@ -719,10 +719,10 @@ Code,Product,Quantity on Hand,Reserved,Available
 00940,"Wardah EyeXpert Eyeshadow Classic 3,3 gr",84.0,0.0,84.0
 00941,"Wardah EyeXpert Eyeshadow Passionate 3,3 gr",693.0,0.0,693.0
 00942,Wardah Exclusive Matte Lip Cream 01 Red-dicted 4 gr (Pc(s)),7.0,0.0,7.0
-00943,Wardah Exclusive Matte Lip Cream 02 Fuschionately 4 gr (Pc(s)),390.0,0.0,390.0
-00944,Wardah Exclusive Matte Lip Cream 03 See You Latte 4 gr (Pc(s)),458.0,0.0,458.0
-00945,Wardah Exclusive Matte Lip Cream 04 Pink Me 4 gr (Pc(s)),1318.0,0.0,1318.0
-00946,Wardah Exclusive Matte Lip Cream 05 Speachless 4 gr (Pc(s)),30.0,0.0,30.0
+00943,Wardah Exclusive Matte Lip Cream 02 Fuschionately 4 gr (pc(s)),390.0,0.0,390.0
+00944,Wardah Exclusive Matte Lip Cream 03 See You Latte 4 gr (pc(s)),458.0,0.0,458.0
+00945,Wardah Exclusive Matte Lip Cream 04 Pink Me 4 gr (pc(s)),1318.0,0.0,1318.0
+00946,Wardah Exclusive Matte Lip Cream 05 Speachless 4 gr (pc(s)),30.0,0.0,30.0
 00947,Wardah Exclusive Matte Lip Cream 06 Feeling Red 4 gr (Pc(s)),12.0,0.0,12.0
 00948,Wardah Eye Liner Black,338.0,0.0,338.0
 00950,Wardah Eye Liner White,10128.0,0.0,10128.0
@@ -1095,9 +1095,9 @@ Code,Product,Quantity on Hand,Reserved,Available
 01894,Wardah Perfect Bright Tone Up Cream 20 ml,50.0,0.0,50.0
 01895,Emina Daily Matte Loose Powder 01 Light Beige 20 g,89.0,0.0,89.0
 01896,Emina Daily Matte Loose Powder 02 Natural Beige 20 g,59.0,0.0,59.0
-01897,Wardah Refill Instaperfect MINERALIGHT MATTE BB Cushion 11. FAIR 15 g,1.0,0.0,1.0
-01899,Wardah Refill Instaperfect MINERALIGHT MATTE BB Cushion 13. BEIGE 15 g,2.0,0.0,2.0
-01900,Wardah Refill Instaperfect MINERALIGHT MATTE BB Cushion 14. CRÉME 15 g,1.0,0.0,1.0
+01897,Refill Instaperfect MINERALIGHT MATTE BB Cushion 11. FAIR 15 g,1.0,0.0,1.0
+01899,Refill Instaperfect MINERALIGHT MATTE BB Cushion 13. BEIGE 15 g,2.0,0.0,2.0
+01900,Refill Instaperfect MINERALIGHT MATTE BB Cushion 14. CRÉME 15 g,1.0,0.0,1.0
 01904,MAKE OVER Powerskin Water Charge Moisturizer 42 ml,1.0,0.0,1.0
 01912,Instaperfect BROWFESSIONAL 3D Brow Mascara 02. DEEP GREY 5.5 g,1.0,0.0,1.0
 01955,MAKE OVER POWERSTAY Color Correcting Primer Lilac 25 ml,1.0,0.0,1.0
@@ -1106,7 +1106,7 @@ Code,Product,Quantity on Hand,Reserved,Available
 01975,Wardah Nature Daily Sheet Mask Rose 20 ml,2.0,0.0,2.0
 01982,MAKE OVER Color Stick Gloss Crayon 105 Jolene 3 g,2.0,0.0,2.0
 01987,Wardah Perfect Bright Powder Cream 20 ml,92.0,0.0,92.0
-01991,Wardah Refill Instaperfect MATTE FIT Powder Foundation 14. CRÉME13 g,1.0,0.0,1.0
+01991,Refill Instaperfect MATTE FIT Powder Foundation 14. CRÉME13 g,1.0,0.0,1.0
 02025,Wardah Perfect Bright Tone Up Micellar Water 100 ml,5.0,0.0,5.0
 02027,Wardah Exclusive Flawless Cover Cushion 01 Light Beige 15 g,2.0,0.0,2.0
 02029,Wardah Exclusive Flawless Cover Cushion 03 Sandy Beige 15 g,1.0,0.0,1.0
