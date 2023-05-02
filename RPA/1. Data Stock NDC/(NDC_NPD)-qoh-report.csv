@@ -6,7 +6,7 @@ Code,Product,Quantity on Hand,Reserved,Available
 03531,Earth Love Life Spanish Lavender & Javanese Rice Milk  Body Wash 250 ml,3432.0,0.0,3432.0
 03729,Earth Love Life South Bali Frangipani & Tropical Coconut Water Body Wash 250 ml,3912.0,0.0,3912.0
 03783,Wardah Crystal Secret Brightening Day Cream 9 ml <SFG>,12.0,0.0,12.0
-03865,Wardah SuperSerum Mask x2 - Lightening & Acnederm,3816.0,0.0,3816.0
+03865,Wardah SuperSerum Mask x2 - Lightening & Acnederm,3816.0,3816.0,0.0
 03927,Earth Love Life Spanish Lavender & Javanese Rice Milk Body Wash 450 ml,4342.0,0.0,4342.0
 03928,Earth Love Life South Bali Frangipani & Tropical Coconut Water Body Wash 450 ml,4914.0,0.0,4914.0
 03930,Earth Love Life Javanese Moringa & Balinese Starfruit Body Lotion Serum 250 ml,4946.0,0.0,4946.0
@@ -14,8 +14,8 @@ Code,Product,Quantity on Hand,Reserved,Available
 03932,Earth Love Life Spanish Lavender & Javanese Rice Milk Body Lotion Serum 250 m,4272.0,0.0,4272.0
 03933,Earth Love Life South Bali Frangipani & Tropical Coconut Water Body Gel Serum 250 ml,4224.0,0.0,4224.0
 04671,Wardah Hairfall Treatment Shampoo 170 ml,1.0,0.0,1.0
-05011,Instaperfect Daily Glam Essentials Kit,39.0,0.0,39.0
-N0177,NFS Wonderly Brightening Serum Body Lotion (20ml x 15pcs x 5 varian),17925.0,0.0,17925.0
+05011,Instaperfect Daily Glam Essentials Kit,39.0,39.0,0.0
+N0177,NFS Wonderly Brightening Serum Body Lotion (20ml x 15pcs x 5 varian),17400.0,0.0,17400.0
 N0187,NFS Wonderly Brightening Serum Body Lotion Package 1,4000.0,0.0,4000.0
 N0188,NFS Wonderly Brightening Serum Body Lotion Package 2,390.0,0.0,390.0
 N122,Emina NFS Poppin’ Matte 01 Lowkey 1.2 g,935.0,0.0,935.0
